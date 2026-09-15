@@ -1,0 +1,53 @@
+[
+  {
+    "method": "GET",
+    "url": "https://app.medha.pro/api/auth/me",
+    "body": null,
+    "status": 401
+  },
+  {
+    "method": "POST",
+    "url": "https://app.medha.pro/api/auth/refresh",
+    "body": null,
+    "status": 401
+  },
+  {
+    "method": "GET",
+    "url": "https://app.medha.pro/api/auth/signup-status",
+    "body": null,
+    "status": 200
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-6JQLJ870S1&gtm=45je69b1v9259221787za200zd9259221787&_p=1789459022419&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=901481121.1789459023&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x800&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=2&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120412527~120469145~120469153&dp=%2Flogin&dl=https%3A%2F%2Fapp.medha.pro%2Flogin&dt=Medha%20%E2%80%94%20Your%20AI%20workspace&sid=1789459022&sct=1&seg=1&uid=&en=page_view&_ee=1&_et=1&tfd=1001",
+    "body": null,
+    "status": 204
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-6JQLJ870S1&gtm=45je69b1v9259221787za200zd9259221787&_p=1789459022419&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&cid=901481121.1789459023&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x800&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=3&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120412527~120469145~120469153&sid=1789459022&sct=1&seg=1&dl=https%3A%2F%2Fapp.medha.pro%2Flogin&dt=Medha%20%E2%80%94%20Your%20AI%20workspace&uid=&en=scroll&epn.percent_scrolled=90&_et=2&tfd=1853",
+    "body": null,
+    "status": 204
+  },
+  {
+    "method": "POST",
+    "url": "https://app.medha.pro/api/auth/login",
+    "body": {
+      "email": "ferdoushasan382@gmail.com",
+      "password": "<REDACTED>"
+    },
+    "status": 200
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-6JQLJ870S1&gtm=45je69b1v9259221787za200zd9259221787&_p=1789459022419&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEEAAAQ&ae=a&cid=901481121.1789459023&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x800&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&_s=4&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120412527~120469145~120469153&sid=1789459022&sct=1&seg=1&dl=https%3A%2F%2Fapp.medha.pro%2Flogin&dt=Medha%20%E2%80%94%20Your%20AI%20workspace&uid=&en=form_start&ep.form_id=&ep.form_destination=https%3A%2F%2Fapp.medha.pro%2Flogin&epn.form_length=3&ep.first_field_id=&ep.first_field_type=email&epn.first_field_position=1&_et=850&tfd=2491",
+    "body": null,
+    "status": 204
+  },
+  {
+    "method": "POST",
+    "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-6JQLJ870S1&gtm=45je69b1v9259221787za200zd9259221787&_p=1789459022419&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&cid=901481121.1789459023&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1280x800&uaa=arm&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=macOS&uapv=26.4.1&uaw=0&ul=en-us&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120412527~120469145~120469153&sid=1789459022&sct=1&seg=1&dl=https%3A%2F%2Fapp.medha.pro%2Flogin&dt=Medha%20%E2%80%94%20Your%20AI%20workspace&uid=107&_s=5&tfd=3497",
+    "body": "<non-json>",
+    "status": 204
+  }
+]

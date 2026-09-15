@@ -1,0 +1,290 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Model Guide
+
+Not sure which model to use? Browse by what you want to do.
+
+CAPABILITY
+Capability
+Any
+Vision
+TOOLS
+Tools
+Any
+Tools
+CONTEXT
+Context
+Any
+Long
+SORT
+Sort
+Recommended
+Price
+Name
+65
+65 results
+CODING
+3
+Medha for Coding
+★★★★★
+Standard
+Tools
+Long context
+
+Best for writing, fixing and explaining code
+
+Built for programming work. Use it to write new code, hunt down a bug, or have a piece of code explained back to you in plain words.
+
+Writing code
+Finding bugs
+Explaining code
+Small app changes
+$0.0094/1K out
+Use this model
+Grok Build 0.1
+★★★★☆
+Budget
+Vision
+Tools
+Long context
+
+Best for code generation & explanation
+
+Choose Grok Build 0.1 when you need to generate or explain code. It's great for beginners and has a large context window.
+
+Code generation
+Code explanation
+Debugging assistance
+Code refactoring
+$0.0030/1K out
+Use this model
+Kimi K2
+★★★★☆
+Budget
+Tools
+Long context
+
+Best for coding tasks with tools
+
+Choose Kimi K2 for tasks that require a balance of coding and tool usage. It's great for budget-conscious users.
+
+Code generation
+Code explanation
+Tool-assisted coding
+$0.0035/1K out
+Use this model
+WRITING
+1
+Medha for Writing
+★★★★★
+Premium
+Vision
+Tools
+Long context
+
+Best for polished writing you are happy to send
+
+Our strongest writer, and one of the pricier levels. Use it for posts, emails and articles where the words and the tone really matter.
+
+Blog posts
+Emails and letters
+Ad and social copy
+Editing a draft
+$0.0472/1K out
+Use this model
+REASONING
+4
+GPT-5.1
+★★★★★
+Standard
+Vision
+Tools
+Long context
+
+Best for complex reasoning tasks
+
+Choose GPT-5.1 for tasks requiring in-depth analysis, understanding, and generation of detailed responses. It's great for users who need to explore intricate concepts or solve complex problems.
+
+Explaining complex concepts
+In-depth analysis
+Detailed response generation
+Problem-solving
+$0.0151/1K out
+Use this model
+DeepSeek R1
+★★★★☆
+Budget
+Tools
+Long context
+
+Best for complex reasoning tasks
+
+Choose DeepSeek R1 for tasks requiring in-depth analysis, like problem-solving or explaining complex concepts. It's also great for using tools and APIs.
+
+Solving multi-step problems
+Explanations of complex topics
+Using tools and APIs
+$0.0038/1K out
+Use this model
+o4-mini
+★★★★☆
+Budget
+Vision
+Tools
+Long context
+
+Best for budget-friendly reasoning tasks
+
+Choose o4-mini for cost-effective, in-depth reasoning and tool usage. It's great for exploring complex ideas without breaking the bank.
+
+Analyzing long texts
+Using tools for data processing
+In-depth reasoning tasks
+$0.0067/1K out
+Use this model
+Medha for Research
+★★★★☆
+Standard
+Vision
+Tools
+Long context
+
+Best for research and comparing your options
+
+Good when a question needs real thinking, not just a quick answer. Use it to compare choices, work through numbers, or plan something out step by step.
+
+Comparing options
+Working through numbers
+Step-by-step plans
+Reading and summarising
+$0.0118/1K out
+Use this model
+VISION
+5
+Amazon: Nova Lite 1.0
+★★★★☆
+Budget
+Vision
+Tools
+Long context
+
+Best for affordable image understanding
+
+Choose Nova Lite when budget is a priority, but you still need to extract insights from images.
+
+Image description
+Object detection
+Simple image classification
+$0.0004/1K out
+Use this model
+GLM 4.6V
+★★★★☆
+Budget
+Vision
+Tools
+Long context
+
+Best for visual tasks & tool use
+
+Choose GLM 4.6V when you need to understand or generate content related to images, and when you want to use tools for tasks.
+
+Image description
+Object recognition
+Tool-assisted tasks
+$0.0014/1K out
+Use this model
+Kimi K2.5
+★★★★☆
+Budget
+Vision
+Tools
+Long context
+
+Best for image understanding & tool use
+
+Choose Kimi K2.5 when you need a budget-friendly model for understanding images and using tools.
+
+Image description
+Object detection
+Tool interaction
+$0.0031/1K out
+Use this model
+Medha for Images
+★★★★☆
+Budget
+Vision
+Tools
+Long context
+
+Best for questions about a photo, screenshot or scan
+
+Send it a picture and ask about it. Handy for reading a screenshot, a receipt, a form, or a photo of handwritten notes.
+
+Reading a screenshot
+Questions about a photo
+Copying text from an image
+Checking a document scan
+$0.0071/1K out
+Use this model
+xAI: Grok 4.5
+★★★★☆
+Standard
+Vision
+Tools
+Long context
+
+Best for complex visual tasks
+
+Choose Grok 4.5 when you need to understand and interact with detailed visual data or long sequences.
+
+Image description
+Object detection
+Long document analysis
+Tool-assisted tasks
+$0.0096/1K out
+Use this model
+FAST & CHEAP
+8
+DeepSeek V4 Flash
+★★★★☆
+Budget
+Tools
+Long context
+
+Best for quick, budget-friendly tasks
+
+Ideal when speed and cost are priorities, offers tool integration for enhanced 

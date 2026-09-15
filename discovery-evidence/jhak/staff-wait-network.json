@@ -1,0 +1,104 @@
+[
+  {
+    "t": 1789445990649,
+    "url": "https://app.medha.pro/api/public/tracking",
+    "status": 200,
+    "body": "{\"enabled\":true,\"gtm_id\":null,\"ga4_id\":\"G-6JQLJ870S1\",\"meta_pixel_id\":\"1573890650989658\"}"
+  },
+  {
+    "t": 1789445990679,
+    "url": "https://app.medha.pro/api/auth/me",
+    "status": 200,
+    "body": "{\"id\":107,\"email\":\"ferdoushasan382@gmail.com\",\"display_name\":\"Ferdous Hasan\",\"avatar_emoji\":\"🎯\",\"role\":\"user\",\"status\":\"active\",\"email_verified\":true,\"impersonated\":false,\"imp_scope\":null,\"display_currency\":\"USD\",\"fx_usd_bdt\":127.0,\"payment_gateway\":\"shurjopay\",\"chat_render_enabled\":false,\"chat_relay_default\":\"medha-cockpit\"}"
+  },
+  {
+    "t": 1789445990859,
+    "url": "https://app.medha.pro/api/notifications/unread_count",
+    "status": 200,
+    "body": "{\"unread\":0}"
+  },
+  {
+    "t": 1789445990860,
+    "url": "https://app.medha.pro/api/packs",
+    "status": 200,
+    "body": "[]"
+  },
+  {
+    "t": 1789445990872,
+    "url": "https://app.medha.pro/api/billing/alert-status",
+    "status": 200,
+    "body": "{\"out_of_plan\":false,\"low_balance\":false,\"balance_bdt\":1691.8807,\"threshold_bdt\":20.0,\"expiring_soon\":false,\"days_left\":30,\"period_end\":\"2026-10-14T12:55:42.053423+00:00\"}"
+  },
+  {
+    "t": 1789445990872,
+    "url": "https://app.medha.pro/api/notifications",
+    "status": 200,
+    "body": "{\"items\":[{\"id\":1955,\"type\":\"welcome\",\"title\":\"Welcome to Medha 🎉\",\"body\":\"Your email is verified — your AI workspace is ready.\",\"link\":\"/\",\"read_at\":\"2026-09-14T17:34:49.960169+00:00\",\"created_at\":\"2026-09-14T12:34:14.107417+00:00\"}],\"unread\":0}"
+  },
+  {
+    "t": 1789445990881,
+    "url": "https://app.medha.pro/api/billing/wallet",
+    "status": 200,
+    "body": "{\"balance_bdt\":1691.8807,\"ledger\":[{\"id\":36867,\"type\":\"debit\",\"amount_bdt\":-0.1012,\"balance_after\":1691.8807,\"ref_type\":\"generation\",\"ref_id\":\"37762\",\"meta\":{\"model\":\"qwen/qwen3.7-flash\",\"tool_turn\":true},\"created_at\":\"2026-09-14T17:49:50.107735+00:00\"},{\"id\":36866,\"type\":\"debit\",\"amount_bdt\":-0.0791,\"balance_after\":1691.9819,\"ref_type\":\"generation\",\"ref_id\":\"37761\",\"meta\":{\"model\":\"qwen/qwen3.7-flash\",\"tool_turn\":true},\"created_at\":\"2026-09-14T17:48:59.534095+00:00\"},{\"id\":36865,\"type\":\"debit\",\"amount_bdt\":-7.939,\"balance_after\":1692.061,\"ref_type\":\"generation\",\"ref_id\":\"37760\",\"meta\":{\"model\":\"anthropic/claude-sonnet-4.6\",\"tool_turn\":true},\"created_at\":\"2026-09-14T17:47:48.807818+00:00\"},{\"id\":36790,\"type\":\"plan_credit\",\"amount_bdt\":1700.0,\"balance_after\":1700.0,\"ref_type\":\"plan_credit\",\"ref_id\":\"4:2026-10-14T12:55:42.053423+00:00\",\"meta\":{\"months\":1,\"plan_id\":4,\"per_month_bdt\":\"1700\"},\"created_at\":\"2026-09-14T12:55:42.053423+00:00\"}]}"
+  },
+  {
+    "t": 1789445990899,
+    "url": "https://app.medha.pro/api/billing/subscription",
+    "status": 200,
+    "body": "{\"id\":104,\"plan_id\":4,\"plan_name\":\"Business\",\"status\":\"active\",\"current_period_start\":\"2026-09-14T12:55:42.053423+00:00\",\"current_period_end\":\"2026-10-14T12:55:42.053423+00:00\",\"is_active\":true}"
+  },
+  {
+    "t": 1789445990915,
+    "url": "https://app.medha.pro/api/billing/models",
+    "status": 200,
+    "body": "[{\"model_key\":\"mistralai/mistral-nemo\",\"display_name\":\"Mistral Nemo\",\"price_in_bdt_per_1k\":0.0038,\"price_out_bdt_per_1k\":0.0058,\"supports_vision\":false,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"cheap\",\"fast\",\"tools\"],\"catalog_group\":\"Mistral\",\"badge\":null,\"context_window\":131072,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"tools\",\"streaming\"]},{\"model_key\":\"qwen/qwen3.7-flash\",\"display_name\":\"Qwen: Qwen3.7 Flash\",\"price_in_bdt_per_1k\":0.0076,\"price_out_bdt_per_1k\":0.0298,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"vision\",\"tools\",\"long-context\",\"cheap\"],\"catalog_group\":\"Qwen\",\"badge\":null,\"context_window\":1000000,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"vision\",\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"deepseek/deepseek-v4-flash\",\"display_name\":\"DeepSeek V4 Flash\",\"price_in_bdt_per_1k\":0.0173,\"price_out_bdt_per_1k\":0.0346,\"supports_vision\":false,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"cheap\",\"fast\",\"long-context\",\"tools\"],\"catalog_group\":\"DeepSeek\",\"badge\":null,\"context_window\":1048576,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"amazon/nova-lite-v1\",\"display_name\":\"Amazon: Nova Lite 1.0\",\"price_in_bdt_per_1k\":0.0122,\"price_out_bdt_per_1k\":0.0488,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"vision\",\"tools\",\"long-context\",\"cheap\"],\"catalog_group\":\"Amazon\",\"badge\":nul"
+  },
+  {
+    "t": 1789445990957,
+    "url": "https://app.medha.pro/api/billing/entitlements",
+    "status": 200,
+    "body": "{\"features\":{\"smart_mode\":true,\"knowledge_upload\":true,\"vision\":true,\"premium_models\":true,\"connectors\":true,\"ads_dashboard\":true,\"ads_insights\":true,\"ads_export\":true,\"ads_sync_2h\":true,\"ads_sync_1h\":true,\"command_center\":true,\"life_os\":true,\"cc_visual\":true,\"smart_projects\":true,\"marketplace\":false,\"product_research\":false,\"content_media\":true,\"jhak\":true,\"studio\":false,\"scheduled_jobs\":true,\"referrals\":false},\"catalog\":{\"smart_mode\":{\"label\":\"Smart mode\",\"description\":\"Agentic per-profile mode — auto tool discovery + full tool/knowledge reach.\"},\"knowledge_upload\":{\"label\":\"Knowledge upload\",\"description\":\"Upload files as knowledge (RAG) to projects, agents and skills.\"},\"vision\":{\"label\":\"Vision\",\"description\":\"Attach images to chat for multimodal models.\"},\"premium_models\":{\"label\":\"Premium models\",\"description\":\"Use the high-price premium models in chat.\"},\"connectors\":{\"label\":\"Connectors\",\"description\":\"Connect external apps — Gmail, Drive, Meta Ads.\"},\"ads_dashboard\":{\"label\":\"Ads Dashboard\",\"description\":\"Meta Ads Pipeline — ROAS, CPA, CTR across campaigns/adsets/ads with pause/resume actions.\"},\"ads_insights\":{\"label\":\"Ads AI insights\",\"description\":\"AI Ads Analyst in chat, AI recommendations & report export. OFF = data-only dashboard.\"},\"ads_export\":{\"label\":\"Ads report export\",\"description\":\"Download the one-click Ads report (.md / Word). Requires Ads AI insights.\"},\"ads_sync_2h\":{\"label\":\"Ads auto-sync every 2 h\",\"description\":\"Auto-sync Meta Ads every 2 hours.\""
+  },
+  {
+    "t": 1789445991164,
+    "url": "https://app.medha.pro/api/command-center/prefs",
+    "status": 200,
+    "body": "{\"prefs\":{\"auto_open\":true,\"hud\":true,\"missions\":true,\"nodes\":true,\"alerts\":true,\"wallet_usage\":true,\"ads\":true,\"briefing\":true,\"clock\":true,\"voice\":true},\"auto_open\":true,\"reason\":\"user\",\"entitled\":true,\"admin_default\":true}"
+  },
+  {
+    "t": 1789445991164,
+    "url": "https://app.medha.pro/api/projects/436/plan",
+    "status": 200,
+    "body": "{\"plan\":{\"id\":209,\"project_id\":436,\"goal_snapshot\":\"Should I launch a portable blender at BDT 2,500?\",\"status\":\"draft\",\"created_at\":\"2026-09-14T15:06:34.699240+00:00\",\"approved_at\":null},\"todos\":[{\"id\":1527,\"plan_id\":209,\"project_id\":436,\"seq\":1,\"title\":\"Research Market Demand\",\"detail\":\"Use the 'web_search' tool to find out the current demand and popularity of portable blenders in Bangladesh. Focus on the price range around BDT 2,500. Summarize the findings in a markdown format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"web_search\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.704778+00:00\",\"wave\":1},{\"id\":1528,\"plan_id\":209,\"project_id\":436,\"seq\":2,\"title\":\"Analyze Competition\",\"detail\":\"Use the 'search_knowledge' tool to find out the competitors offering portable blenders around BDT 2,500. Compare their features, prices, and customer reviews. Present the findings in a tabular format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"search_knowledge\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.739275+00:00\",\"wave\":2},{\"id\":1529,\"plan_id\":209,\"project_id\":436,\"seq\":3,\"title\":\"Calculate Profit Margin\",\"detail\":\"Given the production cost of the blender is BDT 1,800, use the 'calculator' tool to calculate the profit margin if sold at BDT 2,500. Round off the result to two decimal places.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tool"
+  },
+  {
+    "t": 1789445991179,
+    "url": "https://app.medha.pro/api/jhak/active",
+    "status": 200,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "t": 1789445991179,
+    "url": "https://app.medha.pro/api/projects/436/workspace",
+    "status": 200,
+    "body": "{\"id\":436,\"name\":\"Home\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-14T15:05:43.420321+00:00\",\"updated_at\":\"2026-09-15T04:18:18.065156+00:00\",\"goal\":\"Research my target customer. Build 3 detailed personas with demographics, pain points, buying triggers, and messaging angles that resonate.\",\"goal_state\":\"clear\",\"locked\":false,\"lead_agent_id\":793,\"lead_instructions\":null,\"lead\":{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\"},\"bound_agents\":[{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\",\"role\":\"lead\"}],\"bound_profile\":null,\"enabled_skill_ids\":[],\"chats\":[{\"id\":3623,\"title\":\"New chat\",\"created_at\":\"2026-09-14T18:30:59.126153+00:00\",\"updated_at\":\"2026-09-14T18:30:59.126153+00:00\",\"has_summary\":false,\"message_count\":0},{\"id\":3620,\"title\":\"Set up — Home\",\"created_at\":\"2026-09-14T17:47:15.493253+00:00\",\"updated_at\":\"2026-09-14T17:47:48.821262+00:00\",\"has_summary\":false,\"message_count\":2}]}"
+  },
+  {
+    "t": 1789445991371,
+    "url": "https://app.medha.pro/api/projects/436/plan",
+    "status": 200,
+    "body": "{\"plan\":{\"id\":209,\"project_id\":436,\"goal_snapshot\":\"Should I launch a portable blender at BDT 2,500?\",\"status\":\"draft\",\"created_at\":\"2026-09-14T15:06:34.699240+00:00\",\"approved_at\":null},\"todos\":[{\"id\":1527,\"plan_id\":209,\"project_id\":436,\"seq\":1,\"title\":\"Research Market Demand\",\"detail\":\"Use the 'web_search' tool to find out the current demand and popularity of portable blenders in Bangladesh. Focus on the price range around BDT 2,500. Summarize the findings in a markdown format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"web_search\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.704778+00:00\",\"wave\":1},{\"id\":1528,\"plan_id\":209,\"project_id\":436,\"seq\":2,\"title\":\"Analyze Competition\",\"detail\":\"Use the 'search_knowledge' tool to find out the competitors offering portable blenders around BDT 2,500. Compare their features, prices, and customer reviews. Present the findings in a tabular format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"search_knowledge\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.739275+00:00\",\"wave\":2},{\"id\":1529,\"plan_id\":209,\"project_id\":436,\"seq\":3,\"title\":\"Calculate Profit Margin\",\"detail\":\"Given the production cost of the blender is BDT 1,800, use the 'calculator' tool to calculate the profit margin if sold at BDT 2,500. Round off the result to two decimal places.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tool"
+  },
+  {
+    "t": 1789445995123,
+    "url": "https://app.medha.pro/api/projects/436/plan/209/staffing/propose",
+    "status": 200,
+    "body": "{\"seats\":[{\"todo_id\":1527,\"mode\":\"reuse\",\"agent_id\":2338,\"agent_name\":\"Email Assistant (copy)\",\"role_hint\":\"worker\"},{\"todo_id\":1528,\"mode\":\"reuse\",\"agent_id\":2338,\"agent_name\":\"Email Assistant (copy)\",\"role_hint\":\"worker\"},{\"todo_id\":1529,\"mode\":\"reuse\",\"agent_id\":2338,\"agent_name\":\"Email Assistant (copy)\",\"role_hint\":\"worker\"},{\"todo_id\":1530,\"mode\":\"reuse\",\"agent_id\":2338,\"agent_name\":\"Email Assistant (copy)\",\"role_hint\":\"worker\"},{\"todo_id\":1531,\"mode\":\"reuse\",\"agent_id\":2338,\"agent_name\":\"Email Assistant (copy)\",\"role_hint\":\"worker\"},{\"todo_id\":1532,\"mode\":\"reuse\",\"agent_id\":2338,\"agent_name\":\"Email Assistant (copy)\",\"role_hint\":\"lead\"}]}"
+  },
+  {
+    "t": 1789446001371,
+    "url": "https://app.medha.pro/api/jhak/active",
+    "status": 200,
+    "body": "{\"running\":0,\"goals\":[]}"
+  }
+]

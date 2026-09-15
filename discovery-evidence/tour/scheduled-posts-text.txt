@@ -1,0 +1,51 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Scheduled posts
+
+Queue a post to a connected app and Medha publishes it at the time you pick. Only actions your operator has enabled for posting can be scheduled.
+
+Schedule a post
+
+Nothing to schedule yet
+
+Connect an app your operator has enabled for posting — then its scheduled actions show up here.
+
+Your scheduled posts
+
+No scheduled posts yet
+
+Schedule your first post above — it'll appear here and update on its own when it fires.

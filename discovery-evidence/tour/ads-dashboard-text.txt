@@ -1,0 +1,110 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Ads Pipeline
+
+Meta Ads — campaigns → adsets → ads with action signals.
+
+Last synced: Never synced
+Sync Now
+
+Select a specific ad account (not “All accounts”) to sync.
+
+3d
+7d
+15d
+30d
+Meta Tokens
+0 connected
+▼
+Trend
+
+ROAS & spend across recent syncs
+
+Select an account
+
+Pick an account to see its trend.
+
+Alerts
+
+Open signals from the rule engine
+
+Select an account
+
+Pick an account to see its alerts.
+
+Pixel funnel
+
+Page View → Add to Cart → Checkout → Purchase (7d)
+
+Select an account
+
+Pick an account to see its funnel.
+
+Breakdowns
+
+Spend / ROAS / CPA by segment (7d)
+
+Placement
+Position
+Age
+Gender
+Region
+Device
+
+Select an account
+
+Pick an account to see its breakdowns.
+
+Tracking health
+
+Pixel status + event coverage (7d)
+
+Select an account
+
+Pick an account to check tracking.
+
+Creative depth
+
+Top ads by spend · ThruPlay & hold rates (7d)
+
+▲
+
+Select an account
+
+Pick an account to see creative performance.
+
+No ads match the current filters.

@@ -1,0 +1,52 @@
+[
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "status": 200,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/workspace",
+    "status": 200,
+    "body": "{\"id\":440,\"name\":\"QA Fresh Test\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-15T04:37:00.422431+00:00\",\"updated_at\":\"2026-09-15T04:39:31.497445+00:00\",\"goal\":\"List the first 5 prime numbers.\",\"goal_state\":\"clear\",\"locked\":false,\"lead_agent_id\":793,\"lead_instructions\":null,\"lead\":{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\"},\"bound_agents\":[{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\",\"role\":\"lead\"}],\"bound_profile\":null,\"enabled_skill_ids\":[],\"chats\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/plan",
+    "status": 200,
+    "body": "{\"plan\":null,\"todos\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/workspace",
+    "status": 200,
+    "body": "{\"id\":440,\"name\":\"QA Fresh Test\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-15T04:37:00.422431+00:00\",\"updated_at\":\"2026-09-15T04:39:31.497445+00:00\",\"goal\":\"List the first 5 prime numbers.\",\"goal_state\":\"clear\",\"locked\":false,\"lead_agent_id\":793,\"lead_instructions\":null,\"lead\":{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\"},\"bound_agents\":[{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\",\"role\":\"lead\"}],\"bound_profile\":null,\"enabled_skill_ids\":[],\"chats\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/read-preview",
+    "status": 200,
+    "body": "{\"profile\":null,\"knowledge\":[],\"ad_account\":null,\"agents\":{\"count\":1,\"names\":[\"Sumaiya\"]},\"past_goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/readiness?project_id=440",
+    "status": 200,
+    "body": "{\"goal\":\"List the first 5 prime numbers.\",\"skipped\":false,\"items\":[{\"key\":\"audience\",\"question\":\"Who is this for?\",\"why\":\"The reader decides the tone, the depth and the language. Without one, the work is written for nobody in particular.\",\"state\":\"missing\",\"value\":null,\"source\":null},{\"key\":\"deliverable\",\"question\":\"What should come out of this — what is the thing you want in your hands?\",\"why\":\"The shape of the artifact decides the steps and who is staffed to do them. A report and a video are not the same run.\",\"state\":\"known\",\"value\":\"List the first 5 prime numbers\",\"source\":\"your goal\"},{\"key\":\"success\",\"question\":\"How will you know this worked?\",\"why\":\"Without a test to hold the result against, the run can tell you it finished — it cannot tell you it succeeded.\",\"state\":\"missing\",\"value\":null,\"source\":null},{\"key\":\"deadline\",\"question\":\"By when does this need to be done?\",\"why\":\"A deadline decides how much the run should attempt. With none, it will size the work by guesswork.\",\"state\":\"missing\",\"value\":null,\"source\":null},{\"key\":\"sources\",\"question\":\"What should this be based on — whose material, which numbers, which files?\",\"why\":\"The run quotes your own material as evidence. With none, it works from general knowledge alone and cannot cite you.\",\"state\":\"missing\",\"value\":null,\"source\":null},{\"key\":\"language\",\"question\":\"Which language should the output be written in?\",\"why\":\"Everything the run writes lands in one language. Choosing it late means rewriting.\",\"state\":\"inferred\",\"value\":\"English\",\"source\":\"inferred — this project's language is English\"}],\"counts\":{\"known\":1,\"inferred\":1,\"missing\":4,\"dismissed\":0}}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "status": 200,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/plan/draft",
+    "status": 200,
+    "body": "{\"plan\":{\"id\":211,\"project_id\":440,\"goal_snapshot\":\"List the first 5 prime numbers.\",\"status\":\"draft\",\"created_at\":\"2026-09-15T04:42:56.618528+00:00\",\"approved_at\":null},\"todos\":[{\"id\":1538,\"plan_id\":211,\"project_id\":440,\"seq\":1,\"title\":\"Research Prime Numbers\",\"detail\":\"Use the 'search_knowledge' tool to find out what prime numbers are and how to generate them. Write a brief summary in the format 'Prime numbers are numbers greater than 1 that have no divisors other than 1 and themselves.'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"search_knowledge\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.627268+00:00\",\"wave\":1},{\"id\":1539,\"plan_id\":211,\"project_id\":440,\"seq\":2,\"title\":\"Understand the Task\",\"detail\":\"Read the project goal carefully. You need to generate the first 5 prime numbers. Write a summary of the task in the format 'The task is to generate the first 5 prime numbers.'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.667525+00:00\",\"wave\":1},{\"id\":1540,\"plan_id\":211,\"project_id\":440,\"seq\":3,\"title\":\"Create a Prime Number Generator Function\",\"detail\":\"Using the 'calculator' tool, create a function that generates prime numbers. The function should take an integer 'n' as input and return the first 'n' prime numbers. The function should be in the format 'def generate_primes(n): ...'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"calculator\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.676291+00:00\",\"wave\":2},{\"id\":1541,\"plan_id\":211,\"project_id\":440,\"seq\":4,\"title\":\"Generate the First 5 Prime Numbers\",\"detail\":\"Call the 'generate_primes' function with '5' as the argument. The output should be a list of the first 5 prime numbers. The output format should be '[2, 3, 5, 7, 11]'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"calculator\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.680078+00:00\",\"wave\":2},{\"id\":1542,\"plan_id\":211,\"project_id\":440,\"seq\":5,\"title\":\"Write the Output to a File\",\"detail\":\"Use the 'save_file' tool to write the list of prime numbers to a file named 'prime_numbers.txt'. The file should be in the format '[2, 3, 5, 7, 11]'.\",\"status\":\"pending\",\"needs_permission\":true,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"save_file\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.684077+00:00\",\"wave\":3}]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/plan",
+    "status": 200,
+    "body": "{\"plan\":{\"id\":211,\"project_id\":440,\"goal_snapshot\":\"List the first 5 prime numbers.\",\"status\":\"draft\",\"created_at\":\"2026-09-15T04:42:56.618528+00:00\",\"approved_at\":null},\"todos\":[{\"id\":1538,\"plan_id\":211,\"project_id\":440,\"seq\":1,\"title\":\"Research Prime Numbers\",\"detail\":\"Use the 'search_knowledge' tool to find out what prime numbers are and how to generate them. Write a brief summary in the format 'Prime numbers are numbers greater than 1 that have no divisors other than 1 and themselves.'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"search_knowledge\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.627268+00:00\",\"wave\":1},{\"id\":1539,\"plan_id\":211,\"project_id\":440,\"seq\":2,\"title\":\"Understand the Task\",\"detail\":\"Read the project goal carefully. You need to generate the first 5 prime numbers. Write a summary of the task in the format 'The task is to generate the first 5 prime numbers.'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.667525+00:00\",\"wave\":1},{\"id\":1540,\"plan_id\":211,\"project_id\":440,\"seq\":3,\"title\":\"Create a Prime Number Generator Function\",\"detail\":\"Using the 'calculator' tool, create a function that generates prime numbers. The function should take an integer 'n' as input and return the first 'n' prime numbers. The function should be in the format 'def generate_primes(n): ...'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"calculator\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.676291+00:00\",\"wave\":2},{\"id\":1541,\"plan_id\":211,\"project_id\":440,\"seq\":4,\"title\":\"Generate the First 5 Prime Numbers\",\"detail\":\"Call the 'generate_primes' function with '5' as the argument. The output should be a list of the first 5 prime numbers. The output format should be '[2, 3, 5, 7, 11]'\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"calculator\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.680078+00:00\",\"wave\":2},{\"id\":1542,\"plan_id\":211,\"project_id\":440,\"seq\":5,\"title\":\"Write the Output to a File\",\"detail\":\"Use the 'save_file' tool to write the list of prime numbers to a file named 'prime_numbers.txt'. The file should be in the format '[2, 3, 5, 7, 11]'.\",\"status\":\"pending\",\"needs_permission\":true,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"save_file\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-15T04:42:56.684077+00:00\",\"wave\":3}]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/workspace",
+    "status": 200,
+    "body": "{\"id\":440,\"name\":\"QA Fresh Test\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-15T04:37:00.422431+00:00\",\"updated_at\":\"2026-09-15T04:42:56.688829+00:00\",\"goal\":\"List the first 5 prime numbers.\",\"goal_state\":\"planning\",\"locked\":false,\"lead_agent_id\":793,\"lead_instructions\":null,\"lead\":{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\"},\"bound_agents\":[{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\",\"role\":\"lead\"}],\"bound_profile\":null,\"enabled_skill_ids\":[],\"chats\":[]}"
+  }
+]

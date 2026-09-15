@@ -1,0 +1,275 @@
+[
+  {
+    "url": "https://app.medha.pro/api/public/tracking",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"enabled\":true,\"gtm_id\":null,\"ga4_id\":\"G-6JQLJ870S1\",\"meta_pixel_id\":\"1573890650989658\"}"
+  },
+  {
+    "url": "https://app.medha.pro/api/auth/me",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"id\":107,\"email\":\"ferdoushasan382@gmail.com\",\"display_name\":\"Ferdous Hasan\",\"avatar_emoji\":\"🎯\",\"role\":\"user\",\"status\":\"active\",\"email_verified\":true,\"impersonated\":false,\"imp_scope\":null,\"display_currency\":\"USD\",\"fx_usd_bdt\":127.0,\"payment_gateway\":\"shurjopay\",\"chat_render_enabled\":false,\"chat_relay_default\":\"medha-cockpit\"}"
+  },
+  {
+    "url": "https://app.medha.pro/api/packs",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[]"
+  },
+  {
+    "url": "https://app.medha.pro/api/notifications/unread_count",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"unread\":0}"
+  },
+  {
+    "url": "https://app.medha.pro/api/profiles",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":689,\"name\":\"Case\",\"emoji\":\"👤\",\"guide\":\"**I am your AI Business Concierge, here to make your day-to-day operations a breeze. I'm your virtual assistant, always ready to lend a helping hand, provide quick answers, and keep you on track.**\\n\\n**I help business owners like you manage your schedule, stay updated with industry news, and even suggest local business resources. I'm your go-to for quick calculations, conversions, and even brainstorming sessions. I value efficiency and productivity, so I keep my responses concise and to the point.**\\n\\n**My audience is busy, ambitious business owners who need a reliable, friendly, and proactive assistant. I'm here to lighten your load, so you can focus on what you do best - growing your business.**\\n\\n**I speak in a friendly, professional tone, always ready with a helpful response or a quick joke to keep the mood light. I'm approachable, yet always mindful of your time.**\\n\\n**Here are my rules and boundaries:**\\n\\n- **I'm here to assist, not replace, human interaction. I encourage you to build personal connections with your team and clients.**\\n- **I won't share sensitive or confidential information. I'm designed to keep your data secure.**\\n- **I'm available 24/7, but I won't overwhelm you with notifications. I'll only reach out when I have something important to share.**\\n- **I'm constantly learning and improving. If I make a mistake or you have feedback, please let me know.**\\n- **I won't engage in inappropriate or offensive conversations. I'm here to maintain a positive and respectful environment.**\\n\\n**Now, let's get started! How can I assist you today?**\",\"locked\":false,\"settings_locked\":false,\"shared\":false,\"active\":false,\"model\":null,\"temperature\":0.7,\"max_new_tokens\":1024,\"language\":\"en\",\"smart_mode\":true,\"remember_chat_facts\":false,\"created_at\":\"2026-09-14T18:50:06.056108+00:00\",\"updated_at\":\"2026-09-14T18:50:06.056108+00:00\",\"has_passcode\":false,\"model_label\":\"Medha (legacy)\"}]"
+  },
+  {
+    "url": "https://app.medha.pro/api/billing/wallet",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"balance_bdt\":1691.8807,\"ledger\":[{\"id\":36867,\"type\":\"debit\",\"amount_bdt\":-0.1012,\"balance_after\":1691.8807,\"ref_type\":\"generation\",\"ref_id\":\"37762\",\"meta\":{\"model\":\"qwen/qwen3.7-flash\",\"tool_turn\":true},\"created_at\":\"2026-09-14T17:49:50.107735+00:00\"},{\"id\":36866,\"type\":\"debit\",\"amount_bdt\":-0.0791,\"balance_after\":1691.9819,\"ref_type\":\"generation\",\"ref_id\":\"37761\",\"meta\":{\"model\":\"qwen/qwen3.7-flash\",\"tool_turn\":true},\"created_at\":\"2026-09-14T17:48:59.534095+00:00\"},{\"id\":36865,\"type\":\"debit\",\"amount_bdt\":-7.939,\"balance_after\":1692.061,\"ref_type\":\"generation\",\"ref_id\":\"37760\",\"meta\":{\"model\":\"anthropic/claude-sonnet-4.6\",\"tool_turn\":true},\"created_at\":\"2026-09-14T17:47:48.807818+00:00\"},{\"id\":36790,\"type\":\"plan_credit\",\"amount_bdt\":1700.0,\"balance_after\":1700.0,\"ref_type\":\"plan_credit\",\"ref_id\":\"4:2026-10-14T12:55:42.053423+00:00\",\"meta\":{\"months\":1,\"plan_id\":4,\"per_month_bdt\":\"1700\"},\"created_at\":\"2026-09-14T12:55:42.053423+00:00\"}]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/stats",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"chats\":3,\"projects\":1,\"agents\":1,\"skills\":3,\"profiles\":1,\"messages\":6}"
+  },
+  {
+    "url": "https://app.medha.pro/api/billing/subscription",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"id\":104,\"plan_id\":4,\"plan_name\":\"Business\",\"status\":\"active\",\"current_period_start\":\"2026-09-14T12:55:42.053423+00:00\",\"current_period_end\":\"2026-10-14T12:55:42.053423+00:00\",\"is_active\":true}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":436,\"name\":\"Home\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-14T15:05:43.420321+00:00\",\"updated_at\":\"2026-09-15T04:22:07.246486+00:00\",\"closed_at\":null,\"goal_state\":\"clear\",\"files\":0,\"memories\":2}]"
+  },
+  {
+    "url": "https://app.medha.pro/api/branding",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"logo\":null,\"name\":\"AI Tour Guide\",\"color\":null,\"your_name\":null}"
+  },
+  {
+    "url": "https://app.medha.pro/api/chats",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":3623,\"title\":\"New chat\",\"project_id\":436,\"agent_id\":null,\"profile_id\":null,\"pinned\":false,\"language\":null,\"seq\":3,\"kind\":\"chat\",\"archived_at\":null,\"created_at\":\"2026-09-14T18:30:59.126153+00:00\",\"updated_at\":\"2026-09-14T18:30:59.126153+00:00\",\"plan_id\":null,\"accounts\":{},\"model_label\":\"Medha\",\"pin_model_label\":null,\"is_model_locked\":false},{\"id\":3621,\"title\":\"hi\",\"project_id\":null,\"agent_id\":null,\"profile_id\":null,\"pinned\":false,\"language\":null,\"seq\":2,\"kind\":\"chat\",\"archived_at\":null,\"created_at\":\"2026-09-14T17:48:56.677859+00:00\",\"updated_at\":\"2026-09-14T17:49:50.125824+00:00\",\"plan_id\":null,\"accounts\":{},\"model_label\":\"Medha (legacy)\",\"pin_model_label\":null,\"is_model_locked\":false},{\"id\":3620,\"title\":\"Set up — Home\",\"project_id\":436,\"agent_id\":836,\"profile_id\":null,\"pinned\":false,\"language\":null,\"seq\":1,\"kind\":\"chat\",\"archived_at\":null,\"created_at\":\"2026-09-14T17:47:15.493253+00:00\",\"updated_at\":\"2026-09-14T17:47:48.821262+00:00\",\"plan_id\":null,\"accounts\":{},\"model_label\":\"Medha\",\"pin_model_label\":null,\"is_model_locked\":false}]"
+  },
+  {
+    "url": "https://app.medha.pro/api/studios",
+    "method": "GET",
+    "status": 403,
+    "reqBody": null,
+    "body": "{\"detail\":\"Studio isn't enabled for your account — contact your admin.\"}"
+  },
+  {
+    "url": "https://app.medha.pro/api/billing/alert-status",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"out_of_plan\":false,\"low_balance\":false,\"balance_bdt\":1691.8807,\"threshold_bdt\":20.0,\"expiring_soon\":false,\"days_left\":30,\"period_end\":\"2026-10-14T12:55:42.053423+00:00\"}"
+  },
+  {
+    "url": "https://app.medha.pro/api/billing/models",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"model_key\":\"mistralai/mistral-nemo\",\"display_name\":\"Mistral Nemo\",\"price_in_bdt_per_1k\":0.0038,\"price_out_bdt_per_1k\":0.0058,\"supports_vision\":false,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"cheap\",\"fast\",\"tools\"],\"catalog_group\":\"Mistral\",\"badge\":null,\"context_window\":131072,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"tools\",\"streaming\"]},{\"model_key\":\"qwen/qwen3.7-flash\",\"display_name\":\"Qwen: Qwen3.7 Flash\",\"price_in_bdt_per_1k\":0.0076,\"price_out_bdt_per_1k\":0.0298,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"vision\",\"tools\",\"long-context\",\"cheap\"],\"catalog_group\":\"Qwen\",\"badge\":null,\"context_window\":1000000,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"vision\",\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"deepseek/deepseek-v4-flash\",\"display_name\":\"DeepSeek V4 Flash\",\"price_in_bdt_per_1k\":0.0173,\"price_out_bdt_per_1k\":0.0346,\"supports_vision\":false,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"cheap\",\"fast\",\"long-context\",\"tools\"],\"catalog_group\":\"DeepSeek\",\"badge\":null,\"context_window\":1048576,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"amazon/nova-lite-v1\",\"display_name\":\"Amazon: Nova Lite 1.0\",\"price_in_bdt_per_1k\":0.0122,\"price_out_bdt_per_1k\":0.0488,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"vision\",\"tools\",\"long-context\",\"cheap\"],\"catalog_group\":\"Amazon\",\"badge\":null,\"context_window\":300000,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"vision\",\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"z-ai/glm-5.3-flash\",\"display_name\":\"Z.ai: GLM 5.3 Flash\",\"price_in_bdt_per_1k\":0.0152,\"price_out_bdt_per_1k\":0.0508,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"vision\",\"tools\",\"long-context\",\"cheap\"],\"catalog_group\":\"Other\",\"badge\":null,\"context_window\":1310720,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"vision\",\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"xiaomi/mimo-v2.5\",\"display_name\":\"Xiaomi: MiMo-V2.5\",\"price_in_bdt_per_1k\":0.0284,\"price_out_bdt_per_1k\":0.0569,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"vision\",\"tools\",\"long-context\",\"cheap\"],\"catalog_group\":\"Other\",\"badge\":null,\"context_window\":1050000,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"vision\",\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"openai/gpt-5-nano\",\"display_name\":\"GPT-5 Nano\",\"price_in_bdt_per_1k\":0.0096,\"price_out_bdt_per_1k\":0.0768,\"supports_vision\":true,\"supports_streaming\":true,\"supports_tools\":true,\"tags\":[\"cheap\",\"fast\",\"reasoning\",\"vision\",\"tools\"],\"catalog_group\":\"OpenAI\",\"badge\":null,\"context_window\":400000,\"is_high_price\":false,\"is_medha_tier\":false,\"capabilities\":[\"vision\",\"tools\",\"streaming\",\"long-context\"]},{\"model_key\":\"qwen/qwen3-8b\",\"display_name\":\"Qwen3 8B\",\"price_in_bdt_per_1k\":0.0096,\"price_out_bdt_per_1k\":0.0768,\"supports_"
+  },
+  {
+    "url": "https://app.medha.pro/api/settings",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"suggest_next\":true,\"chat_layout\":\"focus\",\"chat_relay\":{\"theme\":{\"preset\":\"medha-cockpit\",\"mode\":\"auto\",\"shape\":\"balanced\"},\"text\":{\"size\":\"m\",\"color\":\"ink\"},\"replyWidth\":\"full\",\"show\":{\"tokens\":true,\"timestamps\":true,\"thinking\":true},\"toolDetail\":\"compact\",\"autoScroll\":true,\"canvasOpen\":true},\"branding\":{\"logo\":null,\"name\":\"AI Tour Guide\",\"color\":null,\"your_name\":null},\"cc_prefs\":{\"ads\":true,\"hud\":true,\"clock\":true,\"nodes\":true,\"voice\":true,\"alerts\":true,\"briefing\":true,\"missions\":true,\"auto_open\":true,\"wallet_usage\":true},\"chat_defaults\":{\"rag\":true,\"model\":\"\",\"tools\":true,\"vision\":true,\"provider\":\"\",\"max_tokens\":1024,\"temperature\":0.7},\"default_language\":\"auto\",\"hub_read\":{\"welcome\":true}}"
+  },
+  {
+    "url": "https://app.medha.pro/api/notifications",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"items\":[{\"id\":1955,\"type\":\"welcome\",\"title\":\"Welcome to Medha 🎉\",\"body\":\"Your email is verified — your AI workspace is ready.\",\"link\":\"/\",\"read_at\":\"2026-09-14T17:34:49.960169+00:00\",\"created_at\":\"2026-09-14T12:34:14.107417+00:00\"}],\"unread\":0}"
+  },
+  {
+    "url": "https://app.medha.pro/api/usage?days=7",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"days\":7,\"summary\":{\"generations\":3,\"prompt_tokens\":31864,\"completion_tokens\":1333,\"total_tokens\":33197,\"cost_usd\":0.041349,\"cost_bdt\":8.1193},\"by_model\":[{\"model\":\"Medha (legacy)\",\"generations\":2,\"prompt_tokens\":20016,\"completion_tokens\":946,\"total_tokens\":20962,\"cost_usd\":0.0,\"cost_bdt\":0.1803},{\"model\":\"Medha (legacy)\",\"generations\":1,\"prompt_tokens\":11848,\"completion_tokens\":387,\"total_tokens\":12235,\"cost_usd\":0.041349,\"cost_bdt\":7.939}],\"per_day\":[{\"day\":\"2026-09-14\",\"total_tokens\":33197,\"prompt_tokens\":31864,\"completion_tokens\":1333,\"cost_bdt\":8.1193}],\"recent\":[{\"ts\":\"2026-09-14T17:49:50.102054+00:00\",\"model\":\"Medha (legacy)\",\"prompt_tokens\":10031,\"completion_tokens\":837,\"total_tokens\":10868,\"chat_id\":3621},{\"ts\":\"2026-09-14T17:48:59.527741+00:00\",\"model\":\"Medha (legacy)\",\"prompt_tokens\":9985,\"completion_tokens\":109,\"total_tokens\":10094,\"chat_id\":3621},{\"ts\":\"2026-09-14T17:47:48.801589+00:00\",\"model\":\"Medha (legacy)\",\"prompt_tokens\":11848,\"completion_tokens\":387,\"total_tokens\":12235,\"chat_id\":3620}],\"month_tokens_used\":33197,\"monthly_token_quota\":null}"
+  },
+  {
+    "url": "https://app.medha.pro/api/agents",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":111,\"name\":\"🔗 Account Connector\",\"description\":\"Connect to user's Meta Ads account\",\"avatar\":\"🤖\",\"greeting\":\"\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"111\",\"plan_locked\":false},{\"id\":77,\"name\":\"💡 Action Planner\",\"description\":\"Creates an action plan for the user's ad campaigns.\",\"avatar\":\"🤖\",\"greeting\":\"\",\"model_label\":\"Medha\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"77#2\",\"plan_locked\":false},{\"id\":147,\"name\":\"Action Prioritizer\",\"description\":\"Convert all findings into a sequenced, calculated to-do list.\",\"avatar\":\"🤖\",\"greeting\":\"\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"147\",\"plan_locked\":false},{\"id\":144,\"name\":\"Ad Classifier\",\"description\":\"Tag every ad against the custom thresholds so money-losers surface instantly.\",\"avatar\":\"🤖\",\"greeting\":\"\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"144\",\"plan_locked\":false},{\"id\":33,\"name\":\"Ad Copywriter\",\"description\":\"OTA Mojo Deep Research Steps 4-6: framework ads, AI image prompts, video scripts, organic calendar (BD D2C).\",\"avatar\":\"✍️\",\"greeting\":\"✍️ Ad Copywriter — framework অনুযায়ী image/video/organic content লিখি (Steps 4-6)।\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"33\",\"plan_locked\":false},{\"id\":114,\"name\":\"🎨 Ad Creative Critic\",\"description\":\"Evaluate ad creatives\",\"avatar\":\"🤖\",\"greeting\":\"\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"114\",\"plan_locked\":false},{\"id\":2,\"name\":\"Agent Creator\",\"description\":\"Builds new agents and sub-agent teams from a brief\",\"avatar\":\"🧬\",\"greeting\":\"\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":true,\"persona_seed\":\"2\",\"plan_locked\":false},{\"id\":31,\"name\":\"Arnob\",\"description\":\"Human-like companion — calm, confident, attentive, bilingual\",\"avatar\":\"🌙\",\"greeting\":\"শোনো না… 😌 আমি অর্ণব। কেমন আছো? দিনটা কেমন গেল তোমার — bolo, ami শুনছি। ☕🌙\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":true,\"persona_seed\":\"31\",\"plan_locked\":false},{\"id\":115,\"name\":\"🎯 Audience Strategist\",\"description\":\"Assess audience targeting\",\"avatar\":\"🤖\",\"greeting\":\"\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":false,\"persona_seed\":\"115\",\"plan_locked\":false},{\"id\":117,\"name\":\"🧠 Audit Master\",\"description\":\"Identify and address issues in a Meta Ads account for improved performance.\",\"avatar\":\"🎬\",\"greeting\":\"Hello! I'll help you audit your Meta Ads account for improved performance.\",\"model_label\":\"Medha (legacy)\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"top_level\":true,\"persona_seed\":\"117\",\"plan_locked\":fals"
+  },
+  {
+    "url": "https://app.medha.pro/api/skills",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":49,\"name\":\"52-Scenario Playbook\",\"description\":\"Match-a-situation quick-diagnosis library — 52 scenarios across learning phase, creative, audience, budget and tracking, each with diagnosis + prescribed fix.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":53,\"name\":\"Action Prioritizer\",\"description\":\"P1 (today) / P2 (this week) / P3 (next 2 weeks) definitions, criteria and action categories — turns raw findings into a sequenced action plan.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":46,\"name\":\"Ad Classifier\",\"description\":\"Tags each ad Pause/Critical/Potential/Hero against the business's CUSTOM thresholds (never generic), with the P1 pause triggers and warning conditions.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":48,\"name\":\"Andromeda Blueprint\",\"description\":\"Andromeda-era (Dec 2024) Meta strategy — creative diversification over interest targeting — plus the 100-scenario troubleshooting framework (Sections A–F) for Bangladesh e-commerce.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":34,\"name\":\"Bangla Caption Writer\",\"description\":\"Writes short, scroll-stopping Bangla/Banglish social captions for Bangladeshi brands — 3 options per post, each with a hook and a clear CTA.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":6,\"name\":\"Bangla Content & Translation\",\"description\":\"Natural Bangla writing and faithful Bangla⇄English translation.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":51,\"name\":\"Business-Context Calculator\",\"description\":\"The 5 essential economics inputs (AOV, COGS, shipping, RTO, margin) and why generic thresholds mislead — to compute accurate breakeven ROAS/CPA per business.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":11,\"name\":\"Business Plan & Pitch\",\"description\":\"Investor-minded business plans and slide-by-slide decks.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":8,\"name\":\"Code Reviewer / Debugger\",\"description\":\"Prioritized code review + root-cause debugging (runs code to verify).\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":4,\"name\":\"Cold Email & Outreach\",\"description\":\"Writes cold emails and DMs under 120 words as personal hook, one value line, one soft ask, with 2-3 subject variants and a follow-up.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":true,\"plan_locked\":false},{\"id\":488,\"name\":\"Cold Email & Outreach (copy)\",\"description\":\"Writes cold emails and DMs under 120 words as personal hook, one value line, one soft ask, with 2-3 subject variants and a follow-up.\",\"locked\":false,\"min_plan_id\":null,\"is_global\":false,\"plan_locked\":false},{\"id\":468,\"name\":\"Connections · Pull, transform, push\",\"description\":\"How to use any connected app: list accounts, find the action, read as the named account, transform, then confirm a writ"
+  },
+  {
+    "url": "https://app.medha.pro/api/life/score",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"date\":\"2026-09-15\",\"score\":100,\"tasks_done\":0,\"tasks_total\":0,\"habits_done\":0,\"habits_total\":0,\"task_part\":70.0,\"habit_part\":30.0,\"bonus\":0,\"carry\":0,\"postpone\":0,\"aged_penalty\":0,\"postpone_penalty\":0,\"breakdown\":\"tasks 70/70 · habits 30/30 = 100\",\"streak\":1,\"trend\":0,\"avg7\":100}"
+  },
+  {
+    "url": "https://app.medha.pro/api/billing/entitlements",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"features\":{\"smart_mode\":true,\"knowledge_upload\":true,\"vision\":true,\"premium_models\":true,\"connectors\":true,\"ads_dashboard\":true,\"ads_insights\":true,\"ads_export\":true,\"ads_sync_2h\":true,\"ads_sync_1h\":true,\"command_center\":true,\"life_os\":true,\"cc_visual\":true,\"smart_projects\":true,\"marketplace\":false,\"product_research\":false,\"content_media\":true,\"jhak\":true,\"studio\":false,\"scheduled_jobs\":true,\"referrals\":false},\"catalog\":{\"smart_mode\":{\"label\":\"Smart mode\",\"description\":\"Agentic per-profile mode — auto tool discovery + full tool/knowledge reach.\"},\"knowledge_upload\":{\"label\":\"Knowledge upload\",\"description\":\"Upload files as knowledge (RAG) to projects, agents and skills.\"},\"vision\":{\"label\":\"Vision\",\"description\":\"Attach images to chat for multimodal models.\"},\"premium_models\":{\"label\":\"Premium models\",\"description\":\"Use the high-price premium models in chat.\"},\"connectors\":{\"label\":\"Connectors\",\"description\":\"Connect external apps — Gmail, Drive, Meta Ads.\"},\"ads_dashboard\":{\"label\":\"Ads Dashboard\",\"description\":\"Meta Ads Pipeline — ROAS, CPA, CTR across campaigns/adsets/ads with pause/resume actions.\"},\"ads_insights\":{\"label\":\"Ads AI insights\",\"description\":\"AI Ads Analyst in chat, AI recommendations & report export. OFF = data-only dashboard.\"},\"ads_export\":{\"label\":\"Ads report export\",\"description\":\"Download the one-click Ads report (.md / Word). Requires Ads AI insights.\"},\"ads_sync_2h\":{\"label\":\"Ads auto-sync every 2 h\",\"description\":\"Auto-sync Meta Ads every 2 hours.\"},\"ads_sync_1h\":{\"label\":\"Ads auto-sync every hour\",\"description\":\"Auto-sync Meta Ads every hour.\"},\"command_center\":{\"label\":\"Command Center\",\"description\":\"Per-user Command Center — a live overview of ads KPIs, alerts, wallet, usage and agents, plus a weekly AI briefing. Enabled unless a plan locks it.\"},\"life_os\":{\"label\":\"Life OS\",\"description\":\"Personal Life OS — todos, habits, events and a daily productivity score on a separate /life page. Enabled unless a plan locks it.\"},\"cc_visual\":{\"label\":\"Command Center visuals\",\"description\":\"Multi-theme, data-driven Command Center visuals. Enabled unless a plan locks it (also gated by the global cc_visual_enabled admin kill-switch).\"},\"smart_projects\":{\"label\":\"Smart Projects\",\"description\":\"Goal-driven, agentic Project workspace — a seeded Project Lead reads the project's knowledge/memory/history, clarifies one goal, drafts a numbered todo plan, and executes it one step at a time with your permission. Default OFF: gated per plan AND behind the global smart_projects_enabled admin kill-switch.\"},\"content_media\":{\"label\":\"Content Media Journey\",\"description\":\"Create still images from character packs + Ready-checked prompts (draft → final), billed pay-per-use from the wallet. LOCKED by default (unlike most features): 0144 writes it false on every plan, and the content_media_enabled kill-switch forces it off globally until a plan unlocks it AND the flag is on.\"},\"jhak\":{\"label\":\"ঝাঁক · Jhak\",\"description\":\"Goal runs — a staffed team"
+  },
+  {
+    "url": "https://app.medha.pro/api/profiles",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":689,\"name\":\"Case\",\"emoji\":\"👤\",\"guide\":\"**I am your AI Business Concierge, here to make your day-to-day operations a breeze. I'm your virtual assistant, always ready to lend a helping hand, provide quick answers, and keep you on track.**\\n\\n**I help business owners like you manage your schedule, stay updated with industry news, and even suggest local business resources. I'm your go-to for quick calculations, conversions, and even brainstorming sessions. I value efficiency and productivity, so I keep my responses concise and to the point.**\\n\\n**My audience is busy, ambitious business owners who need a reliable, friendly, and proactive assistant. I'm here to lighten your load, so you can focus on what you do best - growing your business.**\\n\\n**I speak in a friendly, professional tone, always ready with a helpful response or a quick joke to keep the mood light. I'm approachable, yet always mindful of your time.**\\n\\n**Here are my rules and boundaries:**\\n\\n- **I'm here to assist, not replace, human interaction. I encourage you to build personal connections with your team and clients.**\\n- **I won't share sensitive or confidential information. I'm designed to keep your data secure.**\\n- **I'm available 24/7, but I won't overwhelm you with notifications. I'll only reach out when I have something important to share.**\\n- **I'm constantly learning and improving. If I make a mistake or you have feedback, please let me know.**\\n- **I won't engage in inappropriate or offensive conversations. I'm here to maintain a positive and respectful environment.**\\n\\n**Now, let's get started! How can I assist you today?**\",\"locked\":false,\"settings_locked\":false,\"shared\":false,\"active\":false,\"model\":null,\"temperature\":0.7,\"max_new_tokens\":1024,\"language\":\"en\",\"smart_mode\":true,\"remember_chat_facts\":false,\"created_at\":\"2026-09-14T18:50:06.056108+00:00\",\"updated_at\":\"2026-09-14T18:50:06.056108+00:00\",\"has_passcode\":false,\"model_label\":\"Medha (legacy)\"}]"
+  },
+  {
+    "url": "https://app.medha.pro/api/jobs",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[]"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":436,\"name\":\"Home\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-14T15:05:43.420321+00:00\",\"updated_at\":\"2026-09-15T04:22:07.246486+00:00\",\"closed_at\":null,\"goal_state\":\"clear\",\"files\":0,\"memories\":2}]"
+  },
+  {
+    "url": "https://app.medha.pro/api/command-center/prefs",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"prefs\":{\"auto_open\":true,\"hud\":true,\"missions\":true,\"nodes\":true,\"alerts\":true,\"wallet_usage\":true,\"ads\":true,\"briefing\":true,\"clock\":true,\"voice\":true},\"auto_open\":true,\"reason\":\"user\",\"entitled\":true,\"admin_default\":true}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jobs/since-last-visit",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"since\":\"2026-09-15T04:13:06.471523+00:00\",\"count\":0,\"cost_bdt\":\"0\",\"runs\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/connections",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"configured\":true,\"checked_at\":\"2026-09-15T04:23:29+00:00\",\"apps\":[{\"app\":\"slack\",\"label\":\"Slack\",\"group\":\"team chat\",\"icon\":\"💬\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":false,\"blurb\":\"Slack is a channel-based messaging platform. With Slack, people can work together more effectively, connect all their software tools and services, and find the information they need to do their best work - all within a secure, enterprise-grade environment.\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"gmail\",\"label\":\"Gmail\",\"group\":\"Google\",\"icon\":\"📧\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"Read & search your email; send messages (with your confirmation).\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"googledrive\",\"label\":\"Google Drive\",\"group\":\"Google\",\"icon\":\"📁\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"List & read your files; upload new ones (with your confirmation).\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"googlesheets\",\"label\":\"Google Sheets\",\"group\":\"Google\",\"icon\":\"📊\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"Read your spreadsheets; write rows (with your confirmation).\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"facebook\",\"label\":\"Facebook\",\"group\":\"Meta\",\"icon\":\"📘\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"Read your Page insights & posts; publish posts (with your confirmation).\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"metaads\",\"label\":\"Meta Ads\",\"group\":\"Meta\",\"icon\":\"📈\",\"kind\":\"token\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"Read your ad accounts, campaigns & performance — spend, results, CPA/ROAS by date.\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true,\"token_count\":0},{\"app\":\"tiktokads\",\"label\":\"TikTok Ads\",\"group\":\"Ads\",\"icon\":\"🎵\",\"kind\":\"oauth\",\"availability\":\"soon\",\"featured\":false,\"blurb\":\"Read your TikTok ad campaigns & performance.\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"linkedinads\",\"label\":\"LinkedIn Ads\",\"group\":\"Ads\",\"icon\":\"💼\",\"kind\":\"oauth\",\"availability\":\"soon\",\"featured\":false,\"blurb\":\"Read your LinkedIn campaign performance & lead-gen forms.\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"whatsapp\",\"label\":\"WhatsApp\",\"group\":\"Messaging\",\"icon\":\"💬\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"Read your WhatsApp Business message history and templates; send messages (with your confirmation).\",\"status\":null,\"connected\":false,\"own_oauth\":false,\"accounts\":[],\"can_add\":true},{\"app\":\"googlecalendar\",\"label\":\"Google Calendar\",\"group\":\"Google\",\"icon\":\"📅\",\"kind\":\"oauth\",\"availability\":\"live\",\"featured\":true,\"blurb\":\"Read your calendar; create events (with your confirmation).\",\"status\":\"ACT"
+  },
+  {
+    "url": "https://app.medha.pro/api/studios",
+    "method": "GET",
+    "status": 403,
+    "reqBody": null,
+    "body": "{\"detail\":\"Studio isn't enabled for your account — contact your admin.\"}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/goals",
+    "method": "POST",
+    "status": 201,
+    "reqBody": "{\"text\":\"Convert 100 USD to BDT using today's approximate rate. Just give me the number.\"}",
+    "body": "{\"id\":436,\"project_id\":436,\"name\":\"Home\",\"goal\":\"Convert 100 USD to BDT using today's approximate rate. Just give me the number.\",\"goal_state\":\"clear\",\"home\":true,\"ref_project_ids\":[],\"fell_back_to_home\":false}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[{\"id\":436,\"name\":\"Home\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-14T15:05:43.420321+00:00\",\"updated_at\":\"2026-09-15T04:23:32.806231+00:00\",\"closed_at\":null,\"goal_state\":\"clear\",\"files\":0,\"memories\":2}]"
+  },
+  {
+    "url": "https://app.medha.pro/api/public/track",
+    "method": "POST",
+    "status": 204,
+    "reqBody": null,
+    "body": null
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/436/plan",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"plan\":{\"id\":209,\"project_id\":436,\"goal_snapshot\":\"Should I launch a portable blender at BDT 2,500?\",\"status\":\"draft\",\"created_at\":\"2026-09-14T15:06:34.699240+00:00\",\"approved_at\":null},\"todos\":[{\"id\":1527,\"plan_id\":209,\"project_id\":436,\"seq\":1,\"title\":\"Research Market Demand\",\"detail\":\"Use the 'web_search' tool to find out the current demand and popularity of portable blenders in Bangladesh. Focus on the price range around BDT 2,500. Summarize the findings in a markdown format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"web_search\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.704778+00:00\",\"wave\":1},{\"id\":1528,\"plan_id\":209,\"project_id\":436,\"seq\":2,\"title\":\"Analyze Competition\",\"detail\":\"Use the 'search_knowledge' tool to find out the competitors offering portable blenders around BDT 2,500. Compare their features, prices, and customer reviews. Present the findings in a tabular format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"search_knowledge\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.739275+00:00\",\"wave\":2},{\"id\":1529,\"plan_id\":209,\"project_id\":436,\"seq\":3,\"title\":\"Calculate Profit Margin\",\"detail\":\"Given the production cost of the blender is BDT 1,800, use the 'calculator' tool to calculate the profit margin if sold at BDT 2,500. Round off the result to two decimal places.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"calculator\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.749106+00:00\",\"wave\":3},{\"id\":1530,\"plan_id\":209,\"project_id\":436,\"seq\":4,\"title\":\"Assess Financial Viability\",\"detail\":\"Based on the market demand (from step 1), competition (from step 2), and profit margin (from step 3), write a brief assessment on the financial viability of launching the portable blender at BDT 2,500. Use markdown format for better readability.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.757013+00:00\",\"wave\":4},{\"id\":1531,\"plan_id\":209,\"project_id\":436,\"seq\":5,\"title\":\"Create Launch Plan\",\"detail\":\"Based on the assessment (from step 4), create a high-level launch plan for the portable blender. Include key milestones, target launch date, and initial marketing strategies. Save the plan as a DOCX file using the 'write_docx' tool.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"write_docx\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.762100+00:00\",\"wave\":5},{\"id\":1532,\"plan_id\":209,\"project_id\":436,\"seq\":6,\"title\":\"Seek Approval\",\"detail\":\"Send the launch plan (from step 5) to the relevant stakeholders for approval. Use the 'save_file' tool to ensure the plan is saved in a shareable format.\",\"status\":\"pending\",\"needs_permission\":true,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"save_file\"],\"model\":null,\"result\":null,\"updated_at\":\"202"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/436/workspace",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"id\":436,\"name\":\"Home\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-14T15:05:43.420321+00:00\",\"updated_at\":\"2026-09-15T04:23:32.806231+00:00\",\"goal\":\"Convert 100 USD to BDT using today's approximate rate. Just give me the number.\",\"goal_state\":\"clear\",\"locked\":false,\"lead_agent_id\":793,\"lead_instructions\":null,\"lead\":{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\"},\"bound_agents\":[{\"id\":793,\"name\":\"Project Lead\",\"avatar\":\"🧭\",\"role\":\"lead\"}],\"bound_profile\":null,\"enabled_skill_ids\":[],\"chats\":[{\"id\":3623,\"title\":\"New chat\",\"created_at\":\"2026-09-14T18:30:59.126153+00:00\",\"updated_at\":\"2026-09-14T18:30:59.126153+00:00\",\"has_summary\":false,\"message_count\":0},{\"id\":3620,\"title\":\"Set up — Home\",\"created_at\":\"2026-09-14T17:47:15.493253+00:00\",\"updated_at\":\"2026-09-14T17:47:48.821262+00:00\",\"has_summary\":false,\"message_count\":2}]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/billing/entitlements",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"features\":{\"smart_mode\":true,\"knowledge_upload\":true,\"vision\":true,\"premium_models\":true,\"connectors\":true,\"ads_dashboard\":true,\"ads_insights\":true,\"ads_export\":true,\"ads_sync_2h\":true,\"ads_sync_1h\":true,\"command_center\":true,\"life_os\":true,\"cc_visual\":true,\"smart_projects\":true,\"marketplace\":false,\"product_research\":false,\"content_media\":true,\"jhak\":true,\"studio\":false,\"scheduled_jobs\":true,\"referrals\":false},\"catalog\":{\"smart_mode\":{\"label\":\"Smart mode\",\"description\":\"Agentic per-profile mode — auto tool discovery + full tool/knowledge reach.\"},\"knowledge_upload\":{\"label\":\"Knowledge upload\",\"description\":\"Upload files as knowledge (RAG) to projects, agents and skills.\"},\"vision\":{\"label\":\"Vision\",\"description\":\"Attach images to chat for multimodal models.\"},\"premium_models\":{\"label\":\"Premium models\",\"description\":\"Use the high-price premium models in chat.\"},\"connectors\":{\"label\":\"Connectors\",\"description\":\"Connect external apps — Gmail, Drive, Meta Ads.\"},\"ads_dashboard\":{\"label\":\"Ads Dashboard\",\"description\":\"Meta Ads Pipeline — ROAS, CPA, CTR across campaigns/adsets/ads with pause/resume actions.\"},\"ads_insights\":{\"label\":\"Ads AI insights\",\"description\":\"AI Ads Analyst in chat, AI recommendations & report export. OFF = data-only dashboard.\"},\"ads_export\":{\"label\":\"Ads report export\",\"description\":\"Download the one-click Ads report (.md / Word). Requires Ads AI insights.\"},\"ads_sync_2h\":{\"label\":\"Ads auto-sync every 2 h\",\"description\":\"Auto-sync Meta Ads every 2 hours.\"},\"ads_sync_1h\":{\"label\":\"Ads auto-sync every hour\",\"description\":\"Auto-sync Meta Ads every hour.\"},\"command_center\":{\"label\":\"Command Center\",\"description\":\"Per-user Command Center — a live overview of ads KPIs, alerts, wallet, usage and agents, plus a weekly AI briefing. Enabled unless a plan locks it.\"},\"life_os\":{\"label\":\"Life OS\",\"description\":\"Personal Life OS — todos, habits, events and a daily productivity score on a separate /life page. Enabled unless a plan locks it.\"},\"cc_visual\":{\"label\":\"Command Center visuals\",\"description\":\"Multi-theme, data-driven Command Center visuals. Enabled unless a plan locks it (also gated by the global cc_visual_enabled admin kill-switch).\"},\"smart_projects\":{\"label\":\"Smart Projects\",\"description\":\"Goal-driven, agentic Project workspace — a seeded Project Lead reads the project's knowledge/memory/history, clarifies one goal, drafts a numbered todo plan, and executes it one step at a time with your permission. Default OFF: gated per plan AND behind the global smart_projects_enabled admin kill-switch.\"},\"content_media\":{\"label\":\"Content Media Journey\",\"description\":\"Create still images from character packs + Ready-checked prompts (draft → final), billed pay-per-use from the wallet. LOCKED by default (unlike most features): 0144 writes it false on every plan, and the content_media_enabled kill-switch forces it off globally until a plan unlocks it AND the flag is on.\"},\"jhak\":{\"label\":\"ঝাঁক · Jhak\",\"description\":\"Goal runs — a staffed team"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/436/plan",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"plan\":{\"id\":209,\"project_id\":436,\"goal_snapshot\":\"Should I launch a portable blender at BDT 2,500?\",\"status\":\"draft\",\"created_at\":\"2026-09-14T15:06:34.699240+00:00\",\"approved_at\":null},\"todos\":[{\"id\":1527,\"plan_id\":209,\"project_id\":436,\"seq\":1,\"title\":\"Research Market Demand\",\"detail\":\"Use the 'web_search' tool to find out the current demand and popularity of portable blenders in Bangladesh. Focus on the price range around BDT 2,500. Summarize the findings in a markdown format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"web_search\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.704778+00:00\",\"wave\":1},{\"id\":1528,\"plan_id\":209,\"project_id\":436,\"seq\":2,\"title\":\"Analyze Competition\",\"detail\":\"Use the 'search_knowledge' tool to find out the competitors offering portable blenders around BDT 2,500. Compare their features, prices, and customer reviews. Present the findings in a tabular format.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"search_knowledge\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.739275+00:00\",\"wave\":2},{\"id\":1529,\"plan_id\":209,\"project_id\":436,\"seq\":3,\"title\":\"Calculate Profit Margin\",\"detail\":\"Given the production cost of the blender is BDT 1,800, use the 'calculator' tool to calculate the profit margin if sold at BDT 2,500. Round off the result to two decimal places.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"calculator\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.749106+00:00\",\"wave\":3},{\"id\":1530,\"plan_id\":209,\"project_id\":436,\"seq\":4,\"title\":\"Assess Financial Viability\",\"detail\":\"Based on the market demand (from step 1), competition (from step 2), and profit margin (from step 3), write a brief assessment on the financial viability of launching the portable blender at BDT 2,500. Use markdown format for better readability.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.757013+00:00\",\"wave\":4},{\"id\":1531,\"plan_id\":209,\"project_id\":436,\"seq\":5,\"title\":\"Create Launch Plan\",\"detail\":\"Based on the assessment (from step 4), create a high-level launch plan for the portable blender. Include key milestones, target launch date, and initial marketing strategies. Save the plan as a DOCX file using the 'write_docx' tool.\",\"status\":\"pending\",\"needs_permission\":false,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"write_docx\"],\"model\":null,\"result\":null,\"updated_at\":\"2026-09-14T15:06:34.762100+00:00\",\"wave\":5},{\"id\":1532,\"plan_id\":209,\"project_id\":436,\"seq\":6,\"title\":\"Seek Approval\",\"detail\":\"Send the launch plan (from step 5) to the relevant stakeholders for approval. Use the 'save_file' tool to ensure the plan is saved in a shareable format.\",\"status\":\"pending\",\"needs_permission\":true,\"skill_ids\":[],\"agent_ids\":[],\"tools\":[\"save_file\"],\"model\":null,\"result\":null,\"updated_at\":\"202"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/notifications",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"items\":[{\"id\":1955,\"type\":\"welcome\",\"title\":\"Welcome to Medha 🎉\",\"body\":\"Your email is verified — your AI workspace is ready.\",\"link\":\"/\",\"read_at\":\"2026-09-14T17:34:49.960169+00:00\",\"created_at\":\"2026-09-14T12:34:14.107417+00:00\"}],\"unread\":0}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"running\":0,\"goals\":[]}"
+  }
+]

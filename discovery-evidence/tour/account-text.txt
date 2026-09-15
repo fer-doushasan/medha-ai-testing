@@ -1,0 +1,210 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Account & billing
+
+Manage your wallet, plan, and payment history.
+
+Wallet
+
+Charged per generation.
+
+BALANCE
+$13.32
+Top up
++ $0.79
+BDT 100.00
++ $3.94
+BDT 500.00
++ $7.87
+BDT 1,000.00
+Top up
+
+Minimum $0.08 · You'll be taken to ShurjoPay to finish the payment.
+
+Recent activity
+9/14/2026, 11:49:50 PM · debit (generation)
+-$0.0008
+BDT -0.10
+9/14/2026, 11:48:59 PM · debit (generation)
+-$0.0006
+BDT -0.08
+9/14/2026, 11:47:48 PM · debit (generation)
+-$0.06
+BDT -7.94
+9/14/2026, 6:55:42 PM · plan_credit (plan_credit)
++$13.39
+BDT 1,700.00
+Plan
+
+Your subscription & renewal.
+
+Business
+active
+
+Renews / ends 10/14/2026, 6:55:42 PM
+
+Renew (+1 month)
+
+Change plan
+
+Have a code? Enter it, then pick a plan to apply it.
+
+Standard$3.94/monthlyBDT 500.00
+✗ Smart mode
+✗ Knowledge upload
+✗ Vision
+✗ Premium models
+✗ Connectors
+✗ Ads Dashboard
+✗ Ads AI insights
+✗ Ads report export
+✗ Ads auto-sync every 2 h
+✗ Ads auto-sync every hour
+✗ Command Center
+✗ Life OS
+✗ Command Center visuals
+✗ Smart Projects
+✗ Content Media Journey
+✗ ঝাঁক · Jhak
+✗ Scheduled jobs
+Switch
+Pro$9.45/monthlyBDT 1,200.00
+includes $6.30 credit/moBDT 800.00
+✓ Smart mode
+✓ Knowledge upload
+✓ Vision
+✗ Premium models
+✗ Connectors
+✗ Ads Dashboard
+✗ Ads AI insights
+✗ Ads report export
+✗ Ads auto-sync every 2 h
+✗ Ads auto-sync every hour
+✗ Command Center
+✗ Life OS
+✗ Command Center visuals
+✗ Smart Projects
+✗ Content Media Journey
+✗ ঝাঁক · Jhak
+✗ Scheduled jobs
+Switch
+Premium$19.69/monthlyBDT 2,500.00
+includes $7.87 credit/moBDT 1,000.00
+✓ Smart mode
+✓ Knowledge upload
+✓ Vision
+✓ Premium models
+✓ Connectors
+✓ Ads Dashboard
+✓ Ads AI insights
+✓ Ads report export
+✓ Ads auto-sync every 2 h
+✗ Ads auto-sync every hour
+✓ Command Center
+✓ Life OS
+✓ Command Center visuals
+✓ Smart Projects
+✗ Content Media Journey
+✗ ঝাঁক · Jhak
+✗ Scheduled jobs
+Switch
+Business$39.37/monthlyBDT 5,000.00
+includes $13.39 credit/moBDT 1,700.00
+✓ Smart mode
+✓ Knowledge upload
+✓ Vision
+✓ Premium models
+✓ Connectors
+✓ Ads Dashboard
+✓ Ads AI insights
+✓ Ads report export
+✓ Ads auto-sync every 2 h
+✓ Ads auto-sync every hour
+✓ Command Center
+✓ Life OS
+✓ Command Center visuals
+✓ Smart Projects
+✓ Content Media Journey
+✓ ঝাঁক · Jhak
+✓ Scheduled jobs
+Switch
+NCM-OTA-Special$47.24/monthlyBDT 6,000.00
+✓ Smart mode
+✓ Knowledge upload
+✓ Vision
+✓ Premium models
+✓ Connectors
+✓ Ads Dashboard
+✓ Ads AI insights
+✓ Ads report export
+✓ Ads auto-sync every 2 h
+✓ Ads auto-sync every hour
+✓ Command Center
+✓ Life OS
+✓ Command Center visuals
+✓ Smart Projects
+✗ Content Media Journey
+✗ ঝাঁক · Jhak
+✓ Scheduled jobs
+Switch
+Payment history
+
+No payments yet
+
+Top up your wallet or subscribe to a plan to see your payment history here.
+
+API tokens
+
+For Claude Code and scripts. A token can't reach the admin area and can't create more tokens.
+
+Create a token
+WHAT MAY IT DO?
+Read jobs and their runs (jobs:read)
+Create, pause and run jobs (jobs:write)
+mcp:read (mcp:read)
+Expires
+in 30 days
+in 90 days
+in 365 days
+never
+Create token
+
+You'll see the token once, right after it's created. Store it in your Keychain —security add-generic-password -a medha -s medha-pat -w '…'— never in a file.
+
+No API tokens yet
+
+Create one to drive your scheduled jobs from Claude Code.

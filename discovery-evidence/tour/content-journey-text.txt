@@ -1,0 +1,93 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Content Journey
+
+Stills · character-consistent image shots
+
+Wallet $13.32
+0
+Overview
+The map
+1
+Setup
+Title · locale
+2
+Character
+Pack · refs
+3
+Sequences
+Shot prompts
+4
+Generate
+Pay-per-use
+5
+Outputs
+Jobs · files
+কন্টেন্ট জার্নি
+
+Setup → Character → Sequences → Generate → Outputs. Medha writes the prompts & IDs; the GPUs live outside.
+
+Start journey
+1 Setup
+→
+2 Character
+→
+3 Sequences
+→
+4 Generate
+→
+5 Outputs
+Upload here
+
+Character refs on step 2. Product photos already live in Project Files (feeds RAG).
+
+Write prompts here
+
+The sequence board (step 3): Bangla + English shot prompts, locked to a character pack.
+
+Get output here
+
+Step 5 gallery + Project → Files. Each asset keeps its journey / sequence / job IDs.
+
+Your journeys
+
+No journeys yet
+
+Start one above — it takes about five steps.
+
+Archived
+Show

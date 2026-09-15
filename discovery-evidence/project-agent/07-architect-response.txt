@@ -1,0 +1,78 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.12
+· Business
+🎯
+Set up — AI Tour Guide
+Project Architect
+AI Tour Guide
+Canvas
+Export
+Make this a goal
+I want this project to be an AI Tour Guide that helps travelers plan trips around Bangladesh.
+Copy
+Project Architect
+
+Great concept! 🇧🇩 An AI Tour Guide for Bangladesh is a fantastic idea. Let me ask a few focused questions to design the right setup.
+
+1. Who is this guide built for?
+
+A) International tourists (foreign travelers coming to Bangladesh)
+B) Domestic travelers (Bangladeshis exploring their own country)
+C) Both
+
+2. What should the guide actually do? Here are common capabilities — which ones matter most to you?
+
+A) Build day-by-day itineraries based on destination, duration & budget
+B) Recommend places to visit, eat, and stay
+C) Give transportation & logistics advice (how to get there, local tips)
+D) Provide safety tips, cultural guidance, and local etiquette
+E) All of the above (or a specific combination)
+
+These two answers will shape the whole project — feel free to pick multiple options or describe in your own words!
+
+searched knowledge
+searched all knowledge
+Thinking of next steps… 1s
+Qwen: Qwen3.7 Flash
+RAG on
+Tools
+Auto
+বাংলা
+English
+
+Medha can make mistakes — double-check important info.
+
+Canvas
+‹

@@ -1,0 +1,241 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.31
+· Business
+🎯
+Branding
+
+Shown in the assistant's persona — your name, brand color, and logo.
+
+Brand name
+Your name
+Logo
+Upload image
+Remove
+Brand color
+Save branding
+Profiles
+
+Personas with their own knowledge, memory, and an optional product/project focus.
+
+Browse templates
+New profile
+Mine
+Catalog
+STATUS
+Status
+All
+Default
+Locked
+Shared
+SMART MODE
+Smart mode
+All
+On
+1
+1 results
+👤
+Case
+**I am your AI Business Concierge, here to make your day-to-day operations a breeze. I'm your virtual assistant, always ready to lend a helping hand, provide quick answers, and keep you on track.** **I help business owners like you manage your schedule, stay updated with industry news, and even suggest local business resources. I'm your go-to for quick calculations, conversions, and even brainstorming sessions. I value efficiency and productivity, so I keep my responses concise and to the point.** **My audience is busy, ambitious business owners who need a reliable, friendly, and proactive assistant. I'm here to lighten your load, so you can focus on what you do best - growing your business.** **I speak in a friendly, professional tone, always ready with a helpful response or a quick joke to keep the mood light. I'm approachable, yet always mindful of your time.** **Here are my rules and boundaries:** - **I'm here to assist, not replace, human interaction. I encourage you to build personal connections with your team and clients.** - **I won't share sensitive or confidential information. I'm designed to keep your data secure.** - **I'm available 24/7, but I won't overwhelm you with notifications. I'll only reach out when I have something important to share.** - **I'm constantly learning and improving. If I make a mistake or you have feedback, please let me know.** - **I won't engage in inappropriate or offensive conversations. I'm here to maintain a positive and respectful environment.** **Now, let's get started! How can I assist you today?**
+Medha (legacy)
+Set as default
+Chat
+Edit
+Copy
+Delete
+👤 Case
+✕
+🔓
+Editing
+Unlocked
+
+Lock to make the settings read-only — your team can use the profile but not change it.
+
+Lock
+🔗
+Share with your team
+
+🔒 Lock the profile to share it. A shared link lets others chat with this profile (run-only) behind a passcode — they can use it, but never see or edit its settings.
+
+Emoji
+Name *
+Pick an emoji
+👤
+🤖
+🧠
+💼
+🎯
+✍️
+📊
+📈
+🛎
+🧑‍💻
+🎨
+📚
+⚖️
+🩺
+🧮
+🌐
+💡
+🚀
+🛠
+🗂
+🤝
+🎓
+🧾
+💬
+🔬
+🏛
+🪄
+🦉
+Guide
+Write with AI
+Read first and treated as authoritative — the assistant follows this above the agent, skills, and project.
+Reply language
+Auto
+বাংলা
+English
+The assistant replies in this language for chats using this profile. “Auto” = reply in whatever language the user writes.
+Smart mode
+Let this profile discover & use tools on its own and pull knowledge from all your projects — like an agent. Costs a little more per reply; turn off for the cheapest, most literal answers.
+Locked
+Passcode
+No passcode set.
+Model
+(default)
+Mistral Nemo
+Qwen: Qwen3.7 Flash
+DeepSeek V4 Flash
+Amazon: Nova Lite 1.0
+Z.ai: GLM 5.3 Flash
+Xiaomi: MiMo-V2.5
+GPT-5 Nano
+Qwen3 8B
+GLM 4.7 Flash
+Qwen: Qwen3.8 Flash
+GPT-4o mini
+DeepSeek V3 (0324)
+DeepSeek V3.1
+GLM 4.5 Air
+GLM 4.6V
+Xiaomi: MiMo-V2.5-Pro
+DeepSeek: DeepSeek V3
+MiniMax: MiniMax M2.5
+MiniMax: MiniMax M3
+Medha Free
+Medha Fast & Cheap
+GPT-4.1 mini
+GLM 4.6
+Google: Gemini 3.7 Flash
+GPT-5 mini
+Grok Build 0.1
+Kimi K2.5
+Kimi K2
+DeepSeek R1
+Gemini 2.5 Flash
+Kimi K2 Thinking
+Grok 4.20
+Grok 4.3
+Qwen: Qwen3 VL 30B A3B Thinking
+Medha for Long Documents
+Qwen3.7 Max
+Qwen3 Max
+o4-mini
+Medha for Images
+Claude Haiku 4.5
+Mistral Large
+Grok 4.20 Multi-Agent
+Medha Standard
+Medha for Coding
+Medha General
+Writer: Palmyra X5
+xAI: Grok 4.5
+Medha for Research
+Google: Gemini 3.6 Flash
+GPT-4.1
+o3
+Gemini 3.5 Flash
+Gemini 2.5 Pro
+GPT-4o
+GPT-5.1
+Claude Sonnet 4.5
+Claude Sonnet 4.6
+Sonar Pro
+MoonshotAI: Kimi K3
+Claude Opus 4.8
+Claude Opus 5
+Medha Pro
+Medha for Writing
+Anthropic: Claude Fable 5
+Medha Max
+Tools
+CATEGORY
+Category
+All
+Web
+Code
+Files
+Data
+Connectors
+Other
+WEB
+· 3
+web_fetch
+Fetch a web page and return its readable text.
+web_search
+Search the web for a query and return top results (titles, URLs, snippets). Then use web_fetch to read one.
+read_webpage_clean
+Fetch a web page and return its MAIN article content as clean, readable text/markdown (strips navigation, ads, sidebars, and boilerplate). Prefer this over web_fetch when you want to actually READ an article, blog post, news story, or documentation page.
+CODE
+· 2
+sql_query
+Run a READ-ONLY SQL query (SELECT / WITH / PRAGMA) against a SQLite file or CSV the user has saved in their own storage (loaded as table 'data' for CSV). Use it to analyse uploaded data files. Returns up to 200 rows as text.
+run_python
+Execute a short Python snippet in an isolated sandbox (20s timeout, 256 MB cap, no network, no host filesystem). Use it for quick calculations, parsing, or small scripts. Remember to print() what you want to see.
+FILES
+· 7
+save_file
+Save text content to a downloadable file in your storage (and the current project's Files).
+append_file
+Append text to a file in your storage (for content too large for one save_file call).
+read_file
+Read one of your own saved files (or a current-project file) by name.
+list_files
+List the files you've saved.
+read_pdf
+Extract and read the text of a PDF from an http(s) URL or one of your own uploaded files. Optionally pass a page range.
+read_document
+Read a Word (.docx), Excel (.xlsx), CSV, or plain-text file from an http(s) URL or one of your own files. For PDFs use read_pdf.
+write_docx
+Save a formatted Microsoft Word (.docx) to the user's files from light Markdown (use #/

@@ -1,0 +1,127 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+ঝাঁক
+·
+0
+working
+QA Fresh Test
+
+List the first 5 prime numbers.
+
+ঝাঁক কী? · What is this?
+Open the full project →
+1
+Read
+2
+Think
+3
+Staff
+4
+Approve
+5
+Run
+Before anything runs, here's what I'll read
+YOUR PROFILE
+No profile · কোনো প্রোফাইল নেই
+Running on your home context — নির্দিষ্ট প্রোফাইল ছাড়াই চলবে
+KNOWLEDGE FILES
+None uploaded
+change
+AD ACCOUNT
+Not connected
+change
+YOUR TEAMMATES
+1 agent(s) — Sumaiya…
+change
+What I know, and what I don't
+
+Before anything is planned. I never ask for something I can already read.
+
+ALREADY KNOWN (1)
+
+What should come out of this — what is the thing you want in your hands?
+
+List the first 5 prime numbers
+
+from: your goal
+change
+
+INFERRED — CORRECT ME IF THIS IS WRONG (1)
+
+Which language should the output be written in?
+
+English
+
+from: inferred — this project's language is English
+change
+
+STILL MISSING (4)
+
+Who is this for?
+
+The reader decides the tone, the depth and the language. Without one, the work is written for nobody in particular.
+
+Save
+Doesn't apply
+Dismissing is recorded — it shows up in the result as a gap.
+
+How will you know this worked?
+
+Without a test to hold the result against, the run can tell you it finished — it cannot tell you it succeeded.
+
+Save
+Doesn't apply
+Dismissing is recorded — it shows up in the result as a gap.
+
+By when does this need to be done?
+
+A deadline decides how much the run should attempt. With none, it will size the work by guesswork.
+
+Save
+Doesn't apply
+Dismissing is recorded — it shows up in the result as a gap.
+
+What should this be based on — whose material, which numbers, which files?
+
+The run quotes your own material as evidence. With none, it works from general knowledge alone and cannot cite you.
+
+Save
+Doesn't apply
+Dismissing is recorded — it shows up in the result as a gap.
+Skip this — plan anyway
+Skipping is fine — the result will say what it didn't know.
+Looks right — plan it

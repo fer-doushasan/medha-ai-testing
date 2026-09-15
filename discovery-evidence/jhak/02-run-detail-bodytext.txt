@@ -1,0 +1,111 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+ঝাঁক
+·
+0
+working
+Home
+
+Research my target customer. Build 3 detailed personas with demographics, pain points, buying triggers, and messaging angles that resonate.
+
+ঝাঁক কী? · What is this?
+Open the full project →
+1
+Read
+2
+Think
+3
+Staff
+4
+Approve
+5
+Run
+The steps
+WAVE 1
+1 step
+1. Research Market Demand
+
+Use the 'web_search' tool to find out the current demand and popularity of portable blenders in Bangladesh. Focus on the price range around BDT 2,500. Summarize the findings in a markdown format.
+
+↓
+then, once wave 1 finishes
+
+WAVE 2
+1 step
+2. Analyze Competition
+
+Use the 'search_knowledge' tool to find out the competitors offering portable blenders around BDT 2,500. Compare their features, prices, and customer reviews. Present the findings in a tabular format.
+
+↓
+then, once wave 2 finishes
+
+WAVE 3
+1 step
+3. Calculate Profit Margin
+
+Given the production cost of the blender is BDT 1,800, use the 'calculator' tool to calculate the profit margin if sold at BDT 2,500. Round off the result to two decimal places.
+
+↓
+then, once wave 3 finishes
+
+WAVE 4
+1 step
+4. Assess Financial Viability
+
+Based on the market demand (from step 1), competition (from step 2), and profit margin (from step 3), write a brief assessment on the financial viability of launching the portable blender at BDT 2,500. Use markdown format for better readability.
+
+↓
+then, once wave 4 finishes
+
+WAVE 5
+1 step
+5. Create Launch Plan
+
+Based on the assessment (from step 4), create a high-level launch plan for the portable blender. Include key milestones, target launch date, and initial marketing strategies. Save the plan as a DOCX file using the 'write_docx' tool.
+
+↓
+then, once wave 5 finishes
+
+WAVE 6
+1 step
+6. Seek Approval
+🔒 asks first
+— This step stops and asks before it acts outside Medha
+
+Send the launch plan (from step 5) to the relevant stakeholders for approval. Use the 'save_file' tool to ensure the plan is saved in a shareable format.
+
+Staff the crew →

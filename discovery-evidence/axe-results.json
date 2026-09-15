@@ -1,0 +1,38 @@
+{
+  "home": [
+    {
+      "id": "aria-progressbar-name",
+      "impact": "serious",
+      "help": "ARIA progressbar nodes must have an accessible name",
+      "nodes": 1
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": 25
+    }
+  ],
+  "chat": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": 4
+    }
+  ],
+  "jobs": [
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "nodes": 9
+    },
+    {
+      "id": "heading-order",
+      "impact": "moderate",
+      "help": "Heading levels should only increase by one",
+      "nodes": 1
+    }
+  ]
+}

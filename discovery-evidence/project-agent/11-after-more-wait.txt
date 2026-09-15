@@ -1,0 +1,134 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$12.52
+· Business
+🎯
+Set up — AI Tour Guide
+Project Architect
+AI Tour Guide
+Canvas
+Export
+Make this a goal
+I want this project to be an AI Tour Guide that helps travelers plan trips around Bangladesh.
+Copy
+Project Architect
+
+Great concept! 🇧🇩 An AI Tour Guide for Bangladesh is a fantastic idea. Let me ask a few focused questions to design the right setup.
+
+1. Who is this guide built for?
+
+A) International tourists (foreign travelers coming to Bangladesh)
+B) Domestic travelers (Bangladeshis exploring their own country)
+C) Both
+
+2. What should the guide actually do? Here are common capabilities — which ones matter most to you?
+
+A) Build day-by-day itineraries based on destination, duration & budget
+B) Recommend places to visit, eat, and stay
+C) Give transportation & logistics advice (how to get there, local tips)
+D) Provide safety tips, cultural guidance, and local etiquette
+E) All of the above (or a specific combination)
+
+These two answers will shape the whole project — feel free to pick multiple options or describe in your own words!
+
+searched knowledge
+searched all knowledge
+Copy
+Read aloud
+Medha (legacy)
+1) Both international and domestic travelers. 2) E - all of the above.
+Copy
+Project Architect
+
+Good — no conflicting knowledge elsewhere. I have two more focused questions before I design your setup:
+
+3. What languages should the guide respond in?
+
+A) English only
+B) Bengali only
+C) Both English and Bengali (auto-detect based on traveler's input)
+
+4. Do you have any of these content assets ready to upload into the project? (These make the guide much richer and more accurate)
+
+ A list of key destinations, attractions & landmarks in Bangladesh
+ Accommodation options (hotels, guesthouses, etc.)
+ Transportation routes & options (bus, train, launch, flights)
+ Typical costs / budget ranges for travelers
+ Safety tips or cultural etiquette notes
+ Any existing website, brochure, or document about your tour guide business
+
+Let me know what you have and what's still missing — we'll plan around it!
+
+searched knowledge
+list resources
+searched all knowledge
+Copy
+Read aloud
+Medha (legacy)
+3) C - both English and Bengali. 4) I don't have any of those ready yet, let's proceed without them for now.
+Copy
+Project Architect
+
+Perfect — that's everything I need. Let me confirm the goal before I build the proposal:
+
+Confirmed Goal: Build an AI Tour Guide for Bangladesh that serves both international and domestic travelers by generating personalized day-by-day itineraries, recommending places to visit/eat/stay, advising on transportation & logistics, and providing safety tips and cultural guidance — responding in either English or Bengali based on the traveler's input.
+
+Success Criteria: The guide can take a traveler's destination, duration, budget, and preferences and produce a complete, accurate, and practical travel plan for Bangladesh in the traveler's chosen language.
+
+Does this look right? If yes, I'll design the full setup proposal now. ✅
+
+Copy
+Read aloud
+Medha (legacy)
+Yes, that looks right — please design the full setup proposal.
+Copy
+Project Architect
+
+Excellent — I can see there's already an "AI Tour Guide Planner" skill in your catalog, plus strong supporting skills like Bangla Content & Translation, Research Analyst, and SEO Article Writer. I'll build the proposal around these. Let me now put the full setup together.
+
+Copy
+Read aloud
+Medha (legacy)
+Qwen: Qwen3.7 Flash
+Medha (legacy)
+RAG on
+Tools
+Auto
+বাংলা
+English
+
+Medha can make mistakes — double-check important info.
+
+Canvas
+‹

@@ -1,0 +1,62 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Custom MCP servers
+
+Bring your own MCP server. Register its URL and Medha imports its tools for you to use in chat and agents. Your auth token is stored encrypted and never shown again.
+
+Register an MCP server
+
+Connect a remote MCP server by its URL. Medha imports its tools for you to use. Your auth token is stored encrypted and never shown again.
+
+Name
+Toolkit slug (optional)
+Server URL
+
+Must be a public https:// address. Localhost and private IPs are rejected for safety.
+
+Auth token (optional)
+
+Stored encrypted. Sent only to your server. Never displayed after you save it.
+
+That URL isn't allowed. Use a public https:// address (not localhost or a private IP).
+
+Register server
+Your MCP servers
+
+No MCP servers yet
+
+Register your first server above — its tools become available to Medha right away.

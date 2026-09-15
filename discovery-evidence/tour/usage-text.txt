@@ -1,0 +1,219 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Token usage
+
+Your generations, tokens, and cost over time.
+
+Today
+7 days
+30 days
+All
+MODEL
+All
+Mistral Nemo
+Qwen: Qwen3.7 Flash
+DeepSeek V4 Flash
+Amazon: Nova Lite 1.0
+Z.ai: GLM 5.3 Flash
+Xiaomi: MiMo-V2.5
+GPT-5 Nano
+Qwen3 8B
+GLM 4.7 Flash
+Qwen: Qwen3.8 Flash
+GPT-4o mini
+DeepSeek V3 (0324)
+DeepSeek V3.1
+GLM 4.5 Air
+GLM 4.6V
+Xiaomi: MiMo-V2.5-Pro
+DeepSeek: DeepSeek V3
+MiniMax: MiniMax M2.5
+MiniMax: MiniMax M3
+Medha Free
+Medha Fast & Cheap
+GPT-4.1 mini
+GLM 4.6
+Google: Gemini 3.7 Flash
+GPT-5 mini
+Grok Build 0.1
+Kimi K2.5
+Kimi K2
+DeepSeek R1
+Gemini 2.5 Flash
+Kimi K2 Thinking
+Grok 4.20
+Grok 4.3
+Qwen: Qwen3 VL 30B A3B Thinking
+Medha for Long Documents
+Qwen3.7 Max
+Qwen3 Max
+o4-mini
+Medha for Images
+Claude Haiku 4.5
+Mistral Large
+Grok 4.20 Multi-Agent
+Medha Standard
+Medha for Coding
+Medha General
+Writer: Palmyra X5
+xAI: Grok 4.5
+Medha for Research
+Google: Gemini 3.6 Flash
+GPT-4.1
+o3
+Gemini 3.5 Flash
+Gemini 2.5 Pro
+GPT-4o
+GPT-5.1
+Claude Sonnet 4.5
+Claude Sonnet 4.6
+Sonar Pro
+MoonshotAI: Kimi K3
+Claude Opus 4.8
+Claude Opus 5
+Medha Pro
+Medha for Writing
+Anthropic: Claude Fable 5
+Medha Max
+PROJECT
+All
+Home
+AGENT
+All
+🔗 Account Connector
+💡 Action Planner
+Action Prioritizer
+Ad Classifier
+Ad Copywriter
+🎨 Ad Creative Critic
+Agent Creator
+Arnob
+🎯 Audience Strategist
+🧠 Audit Master
+Audit Orchestrator
+Audit Orchestrator (copy)
+Avatar Strategist
+Bangla Content — Editor
+Bangla Content — Lead
+Business Strategist
+🔎 Campaign Analyst
+Coder
+Content Journey Creative Lead
+D2C PM — Project Orchestrator
+Data Analyst
+📊 Data Collector
+📊 Data Puller
+Data Puller Parser
+Doc Analyst
+Email Assistant
+Email Assistant (copy)
+Fatigue Detector
+Finance Modeler
+🔍 Health Auditor
+Intake & Connector
+Job Scheduler
+Life Coach
+Life Planner
+Meta Ads Analyst v2
+Meta Ads Auditor
+Meta Ads Coach Lead
+Meta Ads Daily Tracker
+Meta Ads Data Puller v2
+Meta Ads Optimizer
+Mojo Research Lead
+OCS-01 Intake & Understanding
+OCS-02 Researcher
+OCS-03 Creative Strategist
+OCS-04 Image Producer
+OCS-05 Video Producer
+OCS-06 UGC Producer
+OCS-07 Product-Photo Producer
+OCS-08 Cinematic Producer
+OCS-09 Motion Producer
+OCS-10 Ad-Copy Producer
+OCS-11 Product-UGC-Review Producer
+OCS-12 Triage
+OCS-13 Character Architect
+🎬 OTA Creative Studio Lead
+Project Architect
+Project Architect
+Project Lead
+📝 Report Compiler
+Report Compiler
+📝 Report Generator
+Researcher
+📈 ROI Analyst
+Root-Cause Doctor
+Scaling Strategist
+Social Media Manager
+Social Post Scheduler
+Story Team — Bangla Language Specialist
+Story Team — Character Creator
+Story Team — Lead
+Story Team — Page Writer
+Story Team — Plot Writer
+Story Team — Researcher
+Support Bot
+Threshold Economics
+Translator
+🩺 Triage
+PROFILE
+All
+Case
+Reset filters
+TOTAL TOKENS
+33.2k
+INPUT(prompt)
+31.9k
+OUTPUT(completion)
+1.3k
+GENERATIONS
+3
+COST
+$0.04
+Tokens per day
+30-day window
+09-14
+By model
+MODEL	TOTAL	IN/OUT	GEN	SHARE
+Medha (legacy)	21k	20k/946	2	63%
+Medha (legacy)	12.2k	11.8k/387	1	37%
+Recent generations
+WHEN	MODEL	IN/OUT	TOTAL	CHAT
+9/14/2026, 11:49:50 PM	Medha (legacy)	10k/837	10.9k	#3621
+9/14/2026, 11:48:59 PM	Medha (legacy)	10k/109	10.1k	#3621
+9/14/2026, 11:47:48 PM	Medha (legacy)	11.8k/387	12.2k	#3620

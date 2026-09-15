@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://app.medha.pro/api/connectors/mcp",
+    "status": 200,
+    "body": "[]"
+  },
+  {
+    "url": "https://app.medha.pro/api/connectors/mcp",
+    "status": 400,
+    "body": "{\"detail\":\"URL not allowed: blocked address ::1 for host localhost\"}"
+  },
+  {
+    "url": "https://app.medha.pro/api/connectors/mcp",
+    "status": 400,
+    "body": "{\"detail\":\"URL not allowed: blocked address 169.254.169.254 for host 169.254.169.254\"}"
+  }
+]

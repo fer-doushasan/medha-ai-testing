@@ -1,0 +1,72 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Agents
+
+Build assistants and chain them into lead → sub-agent sequences.
+
+New agent
+You have 1 personal copy that shadow an official agent. Clean them up to make the picker clearer.
+Cleanup duplicates →
+Mine
+Catalog
+TYPE
+Type
+All
+Lead
+Sub-agent
+AVAILABILITY
+Availability
+All
+On my plan
+Locked
+MODEL
+Any
+Medha (legacy)
+2
+2 results
+Email Assistant (copy)
+Yours
+Cold emails, replies, follow-ups, and sequences with strong subject lines.
+Medha (legacy)
+Edit
+Delete
+Project Architect
+Yours
+The setup specialist for Smart Projects. Chat with it to configure a project: it interviews you about your goal, grounds itself in your uploaded knowledge, then proposes a complete, reviewable setup -- goal, Lead steering, the exact skills and existing agents to use, any NEW agents worth creating, the knowledge files you still need, and a numbered per-step plan -- which you review and Apply. It only proposes; nothing is created or run until you approve.
+Medha (legacy)
+Edit
+Delete

@@ -1,0 +1,167 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Tools
+
+The capabilities agents and chats can use. Granted per agent/skill; sandboxed where needed.
+
+110 tools
+CATEGORY
+Category
+All
+Web
+Code
+Files
+Data
+Connectors
+Other
+110
+110 results
+calculator
+
+Evaluate an arithmetic expression and return the result.
+
+current_datetime
+
+Get the current local date and time.
+
+web_fetch
+network
+
+Fetch a web page and return its readable text.
+
+web_search
+network
+
+Search the web for a query and return top results (titles, URLs, snippets). Then use web_fetch to read one.
+
+read_webpage_clean
+
+Fetch a web page and return its MAIN article content as clean, readable text/markdown (strips navigation, ads, sidebars, and boilerplate). Prefer this over web_fetch when you want to actually READ an article, blog post, news story, or documentation page.
+
+youtube_transcript
+
+Fetch the spoken transcript (captions) of a YouTube video from its URL or ID — no download.
+
+translate
+
+Translate text into another language (e.g. Bangla⇄English). Source language is auto-detected.
+
+rename_chat
+
+Rename the CURRENT chat to a short, specific title.
+
+list_my_projects
+
+List the user's recent projects (id, name, created_at). Use only when the user explicitly asks about past projects.
+
+get_project_summary
+
+Get a short summary of one of the user's prior projects by id or name.
+
+pause
+
+Sleep for a short duration (capped at 60 seconds). Returns a confirmation after the wait.
+
+save_file
+
+Save text content to a downloadable file in your storage (and the current project's Files).
+
+append_file
+
+Append text to a file in your storage (for content too large for one save_file call).
+
+read_file
+
+Read one of your own saved files (or a current-project file) by name.
+
+list_files
+
+List the files you've saved.
+
+create_chart
+
+Create a chart image (bar, line, pie, or scatter) from data and return a download URL. Provide labels + values (single series) or a series list.
+
+generate_image
+
+Generate ONE image from a text prompt and show it in the chat with a download link. COSTS money per image from the user's wallet (draft is cheaper than final), so call it only when the user actually asked for an image — never speculatively or to illustrate your own explanation. Repeating an identical prompt is free. To make a DIFFERENT version of the same idea, pass a new `seed`.
+
+read_pdf
+
+Extract and read the text of a PDF from an http(s) URL or one of your own uploaded files. Optionally pass a page range.
+
+read_document
+
+Read a Word (.docx), Excel (.xlsx), CSV, or plain-text file from an http(s) URL or one of your own files. For PDFs use read_pdf.
+
+ocr_image
+
+Read text from an image using OCR (if available on this host).
+
+sql_query
+sandboxed
+
+Run a READ-ONLY SQL query (SELECT / WITH / PRAGMA) against a SQLite file or CSV the user has saved in their own storage (loaded as table 'data' for CSV). Use it to analyse uploaded data files. Returns up to 200 rows as text.
+
+run_python
+sandboxed
+
+Execute a short Python snippet in an isolated sandbox (20s timeout, 256 MB cap, no network, no host filesystem). Use it for quick calculations, parsing, or small scripts. Remember to print() what you want to see.
+
+search_knowledge
+
+Search the current project's, the active agent's, and enabled skills' knowledge files for relevant information.
+
+save_memory
+
+Persist an important fact about this project for future chats.
+
+set_project_goal
+
+Persist the project's confirmed goal once it is crystal clear. Sets the goal and marks the project goal-clear. Only call this after the user has confirmed one unambiguous objective; requires an active project.
+
+draft_project_plan
+
+Persist the numbered todo plan for the current project once the goal is clear and you've thought through the steps. Creates the plan as a DRAFT awaiting the user's review and approval; requires an active project whose goal is already clear. Does NOT execute anything.
+
+propose_project_setup
+
+Persist a complete, structured Setup Proposal for the CURRENT project once you have interviewed the user and the goal is crystal clear. Reuse the user's EXISTING skills/agents by their exact names; propose a NEW agent only for a real capability gap. This does NOT create agents, bind skills, or run anything — it records a proposal the user reviews and Applies. Requires an active project.
+
+resolve_setup_item
+
+Resolve one knowledge item on the CURRENT project's readiness checklist. Use this when the user tells you a required knowledge item is already handled, is held outside Medha (e.g. product photos or video footage), or is not needed. `item` must be the checklist item's exact text. action 'supplied' = the user has the material (no upload required); 'waived' = dismiss the i

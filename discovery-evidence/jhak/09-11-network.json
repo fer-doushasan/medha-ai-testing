@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "status": 200,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/goals",
+    "status": 201,
+    "body": "{\"id\":436,\"project_id\":436,\"name\":\"Home\",\"goal\":\"What is the capital of France? Just tell me the answer.\",\"goal_state\":\"clear\",\"home\":true,\"ref_project_ids\":[],\"fell_back_to_home\":false}"
+  }
+]

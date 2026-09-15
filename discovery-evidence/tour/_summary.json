@@ -1,0 +1,222 @@
+[
+  {
+    "name": "home",
+    "path": "/",
+    "requestedFinalUrl": "https://app.medha.pro/",
+    "status": "ok",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "Failed to load resource: the server responded with a status of 403 ()"
+    ],
+    "failedRequests": [
+      {
+        "url": "https://app.medha.pro/api/studios",
+        "status": 403
+      },
+      {
+        "url": "https://app.medha.pro/api/studios",
+        "status": 403
+      }
+    ]
+  },
+  {
+    "name": "getting-started",
+    "path": "/learn",
+    "requestedFinalUrl": "https://app.medha.pro/learn",
+    "status": "ok",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "Failed to load resource: the server responded with a status of 403 ()"
+    ],
+    "failedRequests": [
+      {
+        "url": "https://app.medha.pro/api/studios",
+        "status": 403
+      },
+      {
+        "url": "https://app.medha.pro/api/studios",
+        "status": 403
+      }
+    ]
+  },
+  {
+    "name": "chat",
+    "path": "/chat",
+    "requestedFinalUrl": "https://app.medha.pro/chat",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "agents",
+    "path": "/agents",
+    "requestedFinalUrl": "https://app.medha.pro/agents",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "skills",
+    "path": "/skills",
+    "requestedFinalUrl": "https://app.medha.pro/skills",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "content-journey",
+    "path": "/content-media",
+    "requestedFinalUrl": "https://app.medha.pro/content-media",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "elements",
+    "path": "/elements",
+    "requestedFinalUrl": "https://app.medha.pro/elements",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "projects",
+    "path": "/projects",
+    "requestedFinalUrl": "https://app.medha.pro/projects",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "profiles",
+    "path": "/profiles",
+    "requestedFinalUrl": "https://app.medha.pro/profiles",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "jobs",
+    "path": "/jobs",
+    "requestedFinalUrl": "https://app.medha.pro/jobs",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "tools",
+    "path": "/tools",
+    "requestedFinalUrl": "https://app.medha.pro/tools",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "model-guide",
+    "path": "/models",
+    "requestedFinalUrl": "https://app.medha.pro/models",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "chats-list",
+    "path": "/chats",
+    "requestedFinalUrl": "https://app.medha.pro/chats",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "usage",
+    "path": "/usage",
+    "requestedFinalUrl": "https://app.medha.pro/usage",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "ads-dashboard",
+    "path": "/ads",
+    "requestedFinalUrl": "https://app.medha.pro/ads",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "command-center",
+    "path": "/command-center",
+    "requestedFinalUrl": "https://app.medha.pro/",
+    "status": "ok",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 403 ()",
+      "Failed to load resource: the server responded with a status of 403 ()"
+    ],
+    "failedRequests": [
+      {
+        "url": "https://app.medha.pro/api/studios",
+        "status": 403
+      },
+      {
+        "url": "https://app.medha.pro/api/studios",
+        "status": 403
+      }
+    ]
+  },
+  {
+    "name": "life-os",
+    "path": "/life",
+    "requestedFinalUrl": "https://app.medha.pro/life",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "connections",
+    "path": "/connections",
+    "requestedFinalUrl": "https://app.medha.pro/connections",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "scheduled-posts",
+    "path": "/schedule",
+    "requestedFinalUrl": "https://app.medha.pro/schedule",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "custom-mcp",
+    "path": "/custom-mcp",
+    "requestedFinalUrl": "https://app.medha.pro/custom-mcp",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "settings",
+    "path": "/settings",
+    "requestedFinalUrl": "https://app.medha.pro/settings",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "account",
+    "path": "/account",
+    "requestedFinalUrl": "https://app.medha.pro/account",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  {
+    "name": "studios",
+    "path": "/studios",
+    "requestedFinalUrl": "https://app.medha.pro/studios",
+    "status": "ok",
+    "consoleErrors": [],
+    "failedRequests": []
+  }
+]

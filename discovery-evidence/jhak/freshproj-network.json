@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://app.medha.pro/api/jhak/runs",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"runs\":[{\"plan_id\":209,\"project_id\":436,\"project_name\":\"Home\",\"project_is_home\":true,\"goal\":\"Should I launch a portable blender at BDT 2,500?\",\"status\":\"draft\",\"state\":\"draft\",\"paused_reason\":null,\"running\":0,\"pending\":6,\"done\":0,\"failed\":0,\"blocked\":0,\"total\":6,\"cap_bdt\":null,\"cap_stamped\":false,\"cap_effective_bdt\":60,\"spent_bdt\":0.0,\"chat_id\":null,\"created_at\":\"2026-09-14T15:06:34.699240+00:00\",\"started_at\":null,\"approved_at\":null}],\"limit\":100}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "{\"id\":440,\"name\":\"QA Fresh Test\",\"description\":null,\"instructions\":\"\",\"model\":null,\"backend\":null,\"language\":\"en\",\"created_at\":\"2026-09-15T04:37:00.422431+00:00\",\"updated_at\":\"2026-09-15T04:37:00.422431+00:00\",\"connection_accounts\":{}}"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/files",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[]"
+  },
+  {
+    "url": "https://app.medha.pro/api/projects/440/memories",
+    "method": "GET",
+    "status": 200,
+    "reqBody": null,
+    "body": "[]"
+  }
+]

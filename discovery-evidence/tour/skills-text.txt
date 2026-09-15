@@ -1,0 +1,68 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Skills
+
+Reusable instruction + tool bundles you can attach to agents and chats.
+
+New skill
+Mine
+Catalog
+AVAILABILITY
+Availability
+All
+On my plan
+Locked
+3
+3 results
+Cold Email & Outreach (copy)
+Yours
+Writes cold emails and DMs under 120 words as personal hook, one value line, one soft ask, with 2-3 subject variants and a follow-up.
+Editable
+Edit
+Delete
+Life OS (copy)
+Yours
+Gives the Life Coach agent the built-in Life OS tools (life_board, life_add_todo, life_log_habit, life_add_event) so it can read your daily board and capture todos, habits, and events. Suggest-only: it never deletes or completes anything for you.
+Editable
+Edit
+Delete
+Research Analyst (copy)
+Yours
+Searches real sources, cross-checks, and answers with citations.
+Editable
+Edit
+Delete

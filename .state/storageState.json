@@ -1,0 +1,107 @@
+{
+  "cookies": [
+    {
+      "name": "__Secure-refresh_token",
+      "value": "NX6Lp9n2ZHY7qr8Egm6vxok9yOzyCWIW-D1E1IiapnBOF9zRChA02cHalLbwxReK",
+      "domain": "app.medha.pro",
+      "path": "/api/auth",
+      "expires": 1792051024.370398,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "zT6fIXu46M77P7P_AwEW5Yw8xLKSQokvQid0KVXv_Og-1789459022.0413158-1.0.1.1-8zdI1Umw7UYMqp1X7DsnQyEsXtf6T9CyQUmmaCOCg7JSOAm54_6RCKYPgf2S0XI4AxN6CGAiBAwHy668mlU53mmb7N6x5NDXfa1c.mVoD3GKD0MNFAl1bxjaoIyunIl2",
+      "domain": ".app.medha.pro",
+      "path": "/",
+      "expires": 1789460821.992213,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1789459022682.142147046434144235",
+      "domain": ".medha.pro",
+      "path": "/",
+      "expires": 1797235022,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.901481121.1789459023",
+      "domain": ".medha.pro",
+      "path": "/",
+      "expires": 1824019022.877339,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-access_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMDciLCJyb2xlIjoidXNlciIsInR5cGUiOiJhY2Nlc3MiLCJpYXQiOjE3ODk0NTkwMjQsImV4cCI6MTc4OTQ1OTkyNH0.on9iGacdCUXLrNYvw98YASkpyiKtdFdD2H9fN5tJp28",
+      "domain": "app.medha.pro",
+      "path": "/",
+      "expires": 1789459924.370365,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_6JQLJ870S1",
+      "value": "GS2.1.s1789459022$o1$g1$t1789459025$j57$l0$h0",
+      "domain": ".medha.pro",
+      "path": "/",
+      "expires": 1824019025.378553,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://app.medha.pro",
+      "localStorage": [
+        {
+          "name": "medha:cc:lastSeen:107",
+          "value": "1789459025208"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1789459022672"
+        },
+        {
+          "name": "cc.voice.lang",
+          "value": "\"en-US\""
+        },
+        {
+          "name": "cc.voice.style",
+          "value": "\"calm\""
+        },
+        {
+          "name": "cc.voice.speed",
+          "value": "1"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "medha_anon_id",
+          "value": "044ba63d-4f01-4808-90e9-a30f54ffea02"
+        },
+        {
+          "name": "cc.voice.name",
+          "value": "\"\""
+        },
+        {
+          "name": "medha:leftRailCollapsed",
+          "value": "0"
+        }
+      ]
+    }
+  ]
+}

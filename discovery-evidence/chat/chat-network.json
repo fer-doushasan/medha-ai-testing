@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://app.medha.pro/api/chats",
+    "status": 200
+  },
+  {
+    "url": "https://app.medha.pro/api/chats",
+    "status": 201
+  },
+  {
+    "url": "https://app.medha.pro/api/chats",
+    "status": 200
+  },
+  {
+    "url": "https://app.medha.pro/api/chats/3637/send/stream",
+    "status": 200
+  },
+  {
+    "url": "https://app.medha.pro/api/chats/3637/messages?limit=100",
+    "status": 200
+  },
+  {
+    "url": "https://app.medha.pro/api/chats/3637/journey",
+    "status": 200
+  },
+  {
+    "url": "https://app.medha.pro/api/chats/3637/dispatches",
+    "status": 200
+  }
+]

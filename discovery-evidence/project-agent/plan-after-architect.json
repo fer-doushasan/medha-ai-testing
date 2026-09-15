@@ -1,0 +1,186 @@
+{
+  "plan": {
+    "plan": {
+      "id": 209,
+      "project_id": 436,
+      "goal_snapshot": "Should I launch a portable blender at BDT 2,500?",
+      "status": "draft",
+      "created_at": "2026-09-14T15:06:34.699240+00:00",
+      "approved_at": null
+    },
+    "todos": [
+      {
+        "id": 1527,
+        "plan_id": 209,
+        "project_id": 436,
+        "seq": 1,
+        "title": "Research Market Demand",
+        "detail": "Use the 'web_search' tool to find out the current demand and popularity of portable blenders in Bangladesh. Focus on the price range around BDT 2,500. Summarize the findings in a markdown format.",
+        "status": "pending",
+        "needs_permission": false,
+        "skill_ids": [],
+        "agent_ids": [],
+        "tools": [
+          "web_search"
+        ],
+        "model": null,
+        "result": null,
+        "updated_at": "2026-09-14T15:06:34.704778+00:00",
+        "wave": 1
+      },
+      {
+        "id": 1528,
+        "plan_id": 209,
+        "project_id": 436,
+        "seq": 2,
+        "title": "Analyze Competition",
+        "detail": "Use the 'search_knowledge' tool to find out the competitors offering portable blenders around BDT 2,500. Compare their features, prices, and customer reviews. Present the findings in a tabular format.",
+        "status": "pending",
+        "needs_permission": false,
+        "skill_ids": [],
+        "agent_ids": [],
+        "tools": [
+          "search_knowledge"
+        ],
+        "model": null,
+        "result": null,
+        "updated_at": "2026-09-14T15:06:34.739275+00:00",
+        "wave": 2
+      },
+      {
+        "id": 1529,
+        "plan_id": 209,
+        "project_id": 436,
+        "seq": 3,
+        "title": "Calculate Profit Margin",
+        "detail": "Given the production cost of the blender is BDT 1,800, use the 'calculator' tool to calculate the profit margin if sold at BDT 2,500. Round off the result to two decimal places.",
+        "status": "pending",
+        "needs_permission": false,
+        "skill_ids": [],
+        "agent_ids": [],
+        "tools": [
+          "calculator"
+        ],
+        "model": null,
+        "result": null,
+        "updated_at": "2026-09-14T15:06:34.749106+00:00",
+        "wave": 3
+      },
+      {
+        "id": 1530,
+        "plan_id": 209,
+        "project_id": 436,
+        "seq": 4,
+        "title": "Assess Financial Viability",
+        "detail": "Based on the market demand (from step 1), competition (from step 2), and profit margin (from step 3), write a brief assessment on the financial viability of launching the portable blender at BDT 2,500. Use markdown format for better readability.",
+        "status": "pending",
+        "needs_permission": false,
+        "skill_ids": [],
+        "agent_ids": [],
+        "tools": [],
+        "model": null,
+        "result": null,
+        "updated_at": "2026-09-14T15:06:34.757013+00:00",
+        "wave": 4
+      },
+      {
+        "id": 1531,
+        "plan_id": 209,
+        "project_id": 436,
+        "seq": 5,
+        "title": "Create Launch Plan",
+        "detail": "Based on the assessment (from step 4), create a high-level launch plan for the portable blender. Include key milestones, target launch date, and initial marketing strategies. Save the plan as a DOCX file using the 'write_docx' tool.",
+        "status": "pending",
+        "needs_permission": false,
+        "skill_ids": [],
+        "agent_ids": [],
+        "tools": [
+          "write_docx"
+        ],
+        "model": null,
+        "result": null,
+        "updated_at": "2026-09-14T15:06:34.762100+00:00",
+        "wave": 5
+      },
+      {
+        "id": 1532,
+        "plan_id": 209,
+        "project_id": 436,
+        "seq": 6,
+        "title": "Seek Approval",
+        "detail": "Send the launch plan (from step 5) to the relevant stakeholders for approval. Use the 'save_file' tool to ensure the plan is saved in a shareable format.",
+        "status": "pending",
+        "needs_permission": true,
+        "skill_ids": [],
+        "agent_ids": [],
+        "tools": [
+          "save_file"
+        ],
+        "model": null,
+        "result": null,
+        "updated_at": "2026-09-14T15:06:34.767115+00:00",
+        "wave": 6
+      }
+    ]
+  },
+  "workspace": {
+    "id": 436,
+    "name": "AI Tour Guide",
+    "description": "An AI-powered tour guide application that helps users discover destinations, plan trips, find attractions, get personalized recommendations, and receive real-time travel assistance.",
+    "instructions": "Write with a professional, concise, and user-friendly tone. Provide practical travel recommendations based on the user's destination, budget, interests, available time, and preferences. Prioritize accurate and useful information, clear itineraries, local attractions, transportation, food, accommodation, safety tips, and estimated costs. Ask for missing information when necessary and avoid making unsupported assumptions.",
+    "model": null,
+    "backend": null,
+    "language": "en",
+    "created_at": "2026-09-14T15:05:43.420321+00:00",
+    "updated_at": "2026-09-15T08:02:11.891203+00:00",
+    "goal": "Build an AI Tour Guide for Bangladesh that serves both international and domestic travelers by generating personalized day-by-day itineraries, recommending places to visit/eat/stay, advising on transportation & logistics, and providing safety tips and cultural guidance — responding in either English or Bengali based on the traveler's input.\n\nSuccess criteria: The guide can take a traveler's destination, duration, budget, and preferences and produce a complete, accurate, and practical travel plan for Bangladesh in the traveler's chosen language (English or Bengali).",
+    "goal_state": "clear",
+    "locked": false,
+    "lead_agent_id": 793,
+    "lead_instructions": null,
+    "lead": {
+      "id": 793,
+      "name": "Project Lead",
+      "avatar": "🧭"
+    },
+    "bound_agents": [
+      {
+        "id": 793,
+        "name": "Project Lead",
+        "avatar": "🧭",
+        "role": "lead"
+      }
+    ],
+    "bound_profile": {
+      "id": 689,
+      "name": "Case"
+    },
+    "enabled_skill_ids": [],
+    "chats": [
+      {
+        "id": 3654,
+        "title": "Set up — AI Tour Guide",
+        "created_at": "2026-09-15T07:57:28.489395+00:00",
+        "updated_at": "2026-09-15T08:02:20.764086+00:00",
+        "has_summary": false,
+        "message_count": 8
+      },
+      {
+        "id": 3623,
+        "title": "New chat",
+        "created_at": "2026-09-14T18:30:59.126153+00:00",
+        "updated_at": "2026-09-14T18:30:59.126153+00:00",
+        "has_summary": false,
+        "message_count": 0
+      },
+      {
+        "id": 3620,
+        "title": "Set up — Home",
+        "created_at": "2026-09-14T17:47:15.493253+00:00",
+        "updated_at": "2026-09-14T17:47:48.821262+00:00",
+        "has_summary": false,
+        "message_count": 2
+      }
+    ]
+  }
+}

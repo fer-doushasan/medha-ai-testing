@@ -1,0 +1,291 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.31
+· Business
+🎯
+← All projects
+AI Tour Guide
+
+Give this project one clear goal, lock in its agents & skills, and pick up any of its chats.
+
+Start a
+ঝাঁক
+here
+Set up with AI
+
+Chat with the Project Architect — it’ll design your goal, plan, skills, agents and the knowledge you need.
+
+Set up with AI
+Goal
+Goal: clear
+— goal_state: clear
+
+One clear objective the Project Lead works toward. The Lead reads this project's knowledge, memory, and prior chats before it plans anything.
+
+Project goal
+Clarify with Lead
+Save goal
+Plan
+Draft
+
+The Project Lead breaks the goal into a numbered todo list. Edit, reorder, and mark which steps need your permission, then approve. Once approved, run the steps one at a time below — the Lead pauses for your explicit “Go” on every step that can act outside Medha.
+
+1
+Needs permission — pause for an explicit “Go” before this step runs
+Uses:
+web_search
+Edit skills
+2
+Needs permission — pause for an explicit “Go” before this step runs
+Uses:
+search_knowledge
+Edit skills
+3
+Needs permission — pause for an explicit “Go” before this step runs
+Uses:
+calculator
+Edit skills
+4
+Needs permission — pause for an explicit “Go” before this step runs
+Uses:
+inherits the project’s skills & tools
+Edit skills
+5
+Needs permission — pause for an explicit “Go” before this step runs
+Uses:
+write_docx
+Edit skills
+6
+Needs permission — pause for an explicit “Go” before this step runs
+Uses:
+save_file
+Edit skills
+Add step
+Re-draft
+Save changes
+Approve plan
+Lock
+Lock this project
+Chats opened in a locked project inherit its bound agents + skills without re-selecting.
+Project Lead
+🧭
+Project Lead
+Lead
+Lead instructions (optional)
+
+Extra steering for this project's Lead — added to its base behavior. Leave empty to clear.
+
+Save instructions
+Helper agents
+🤖
+🔗 Account Connector
+🤖
+💡 Action Planner
+🤖
+Action Prioritizer
+🤖
+Ad Classifier
+✍️
+Ad Copywriter
+🤖
+🎨 Ad Creative Critic
+🧬
+Agent Creator
+🌙
+Arnob
+🤖
+🎯 Audience Strategist
+🎬
+🧠 Audit Master
+🤖
+Audit Orchestrator
+🤖
+Audit Orchestrator (copy)
+🧠
+Avatar Strategist
+🤖
+Bangla Content — Editor
+🤖
+Bangla Content — Lead
+💼
+Business Strategist
+🤖
+🔎 Campaign Analyst
+💻
+Coder
+🎨
+Content Journey Creative Lead
+🧭
+D2C PM — Project Orchestrator
+📊
+Data Analyst
+🤖
+📊 Data Collector
+🤖
+📊 Data Puller
+🤖
+Data Puller Parser
+📄
+Doc Analyst
+✉️
+Email Assistant
+🤖
+Fatigue Detector
+📊
+Finance Modeler
+🤖
+🔍 Health Auditor
+🤖
+Intake & Connector
+🗓
+Job Scheduler
+🎯
+Life Coach
+🗺️
+Life Planner
+🎯
+Meta Ads Analyst v2
+🤖
+Meta Ads Auditor
+🤖
+Meta Ads Coach Lead
+🤖
+Meta Ads Daily Tracker
+📊
+Meta Ads Data Puller v2
+🤖
+Meta Ads Optimizer
+🧭
+Mojo Research Lead
+📋
+OCS-01 Intake & Understanding
+🔎
+OCS-02 Researcher
+🧭
+OCS-03 Creative Strategist
+🖼️
+OCS-04 Image Producer
+🎞️
+OCS-05 Video Producer
+🤳
+OCS-06 UGC Producer
+📸
+OCS-07 Product-Photo Producer
+🎥
+OCS-08 Cinematic Producer
+🌀
+OCS-09 Motion Producer
+✍️
+OCS-10 Ad-Copy Producer
+⭐
+OCS-11 Product-UGC-Review Producer
+🩺
+OCS-12 Triage
+🧑‍🎤
+OCS-13 Character Architect
+🎬
+🎬 OTA Creative Studio Lead
+📐
+Project Architect
+🤖
+📝 Report Compiler
+🤖
+Report Compiler
+🤖
+📝 Report Generator
+🔎
+Researcher
+🤖
+📈 ROI Analyst
+🤖
+Root-Cause Doctor
+🤖
+Scaling Strategist
+📣
+Social Media Manager
+🗓️
+Social Post Scheduler
+🤖
+Story Team — Bangla Language Specialist
+🤖
+Story Team — Character Creator
+🤖
+Story Team — Lead
+🤖
+Story Team — Page Writer
+🤖
+Story Team — Plot Writer
+🤖
+Story Team — Researcher
+🎧
+Support Bot
+🤖
+Threshold Economics
+🤖
+Torch
+🌐
+Translator
+🩺
+🩺 Triage
+Skills
+52-Scenario Playbook
+Match-a-situation quick-diagnosis library — 52 scenarios across learning phase, creative, audience, budget and tracking, each with diagnosis + prescribed fix.
+Action Prioritizer
+P1 (today) / P2 (this week) / P3 (next 2 weeks) definitions, criteria and action categories — turns raw findings into a sequenced action plan.
+Ad Classifier
+Tags each ad Pause/Critical/Potential/Hero against the business's CUSTOM thresholds (never generic), with the P1 pause triggers and warning conditions.
+AI Tour Guide Planner
+Plan personalized tours and travel experiences using destination information, attractions, transportation, activities, budget, time, and user preferences.
+Andromeda Blueprint
+Andromeda-era (Dec 2024) Meta strategy — creative diversification over interest targeting — plus the 100-scenario troubleshooting framework (Sections A–F) for Bangladesh e-commerce.
+Bangla Caption Writer
+Writes short, scroll-stopping Bangla/Banglish social captions for Bangladeshi brands — 3 options per post, each with a hook and a clear CTA.
+Bangla Content & Translation
+Natural Bangla writing and faithful Bangla⇄English translation.
+Business-Context Calculator
+The 5 essential economics inputs (AOV, COGS, shipping, RTO, margin) and why generic thresholds mislead — to compute accurate breakeven ROAS/CPA per business.
+Business Plan & Pitch
+Investor-minded business plans and slide-by-slide decks.
+Code Reviewer / Debugger
+Prioritized code review + root-cause debugging (runs code to verify).
+Cold Email & Outreach
+Writes cold emails and DMs under 120 words as personal hook, one value line, one soft ask, with 2-3 subject variants and a follow-up.
+Connections · Pull, transform, push
+How to use any connected app: list accounts, find the action, read as the named account, transform, then confirm a write — never invent app data.
+Creative Story Writer
+Interactive menu-driven story writer (Bangla/English)
+D2C Core — Bangla-First Language Rule
+Language standard: বাংলা-first consumer text, English structure/labels, Banglish for ads; protects verbatim VoC quotes.
+D2C Core — Memory & File Registry
+Rules for reading project memory first, citing file IDs, registering outputs, a

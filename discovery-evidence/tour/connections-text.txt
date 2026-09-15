@@ -1,0 +1,150 @@
+Medha
+Your AI workspace, end to end.
+‹
+New chat
+New
+ঝাঁক
+Home
+Getting started
+Chat
+Agents
+Skills
+Content Journey
+Elements
+Projects
+Profiles
+Jobs
+Tools
+Model Guide
+Chats
+Usage
+Ads Dashboard
+Command Center
+Life OS
+Connections
+Scheduled posts
+Custom MCP
+Help & support
+Settings
+Dark mode
+🎯
+Ferdous Hasan
+Sign out
+Qwen: Qwen3.7 Flash
+$13.32
+· Business
+🎯
+Connections
+
+Connect your apps so Medha can fetch your data and act for you — your tokens stay with our secure provider, never in Medha.
+
+Status last checked just now
+
+NEEDS YOU
+💼
+Account not confirmed
+LinkedIn
+Remove
+
+The sign-in for this LinkedIn account has expired.
+
+YOUR ACCOUNTS
+2 accounts
+📅
+Account not confirmed
+Google Calendar
+Acting
+Remove
+＋
+Add another Google Calendar
+＋
+Add another LinkedIn
+UNFINISHED SIGN-INS
+📅
+Unfinished sign-in
+Google Calendar
+Dismiss
+
+This sign-in was started and never finished. It uses none of your plan's accounts.
+
+GOOGLE
+📧
+Gmail
+Not connected
+
+Read & search your email; send messages (with your confirmation).
+
+Connect
+📁
+Google Drive
+Not connected
+
+List & read your files; upload new ones (with your confirmation).
+
+Connect
+📊
+Google Sheets
+Not connected
+
+Read your spreadsheets; write rows (with your confirmation).
+
+Connect
+📅
+Google Calendar
+Connected
+
+Read your calendar; create events (with your confirmation).
+
+Add another
+Disconnect
+
+Account not confirmed — reconnect to show which account this is.
+
+✎
+
+Reads পড়তে পারে: 17 — events, list, acl, calendar…
+
+No write is armed — ask your operator
+কোনো লেখার কাজ চালু নেই — অপারেটরকে বলুন
+
+4 retired actions hidden
+4টি পুরোনো কাজ লুকানো
+
+No identity read for this app
+এই অ্যাপের পরিচয় যাচাইয়ের উপায় নেই
+
+META
+📘
+Facebook
+Not connected
+
+Read your Page insights & posts; publish posts (with your confirmation).
+
+Connect
+📈
+Meta Ads
+Not connected
+
+Read your ad accounts, campaigns & performance — spend, results, CPA/ROAS by date.
+
+Connect
+Connect with an access token
+▾
+MESSAGING
+💬
+WhatsApp
+Not connected
+
+Read your WhatsApp Business message history and templates; send messages (with your confirmation).
+
+Connect
+SOCIAL
+💼
+LinkedIn
+Needs reconnect
+
+Read your LinkedIn posts and share stats; publish posts and comments (with your confirmation).
+
+Connect
+Looking for another app?
+🔎 Browse all apps

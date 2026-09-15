@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://app.medha.pro/api/jhak/active",
+    "status": 200,
+    "body": "{\"running\":0,\"goals\":[]}"
+  },
+  {
+    "url": "https://app.medha.pro/api/jhak/readiness?project_id=436",
+    "status": 200,
+    "body": "{\"goal\":\"Research my target customer. Build 3 detailed personas with demographics, pain points, buying triggers, and messaging angles that resonate.\",\"skipped\":false,\"items\":[{\"key\":\"audience\",\"question\":\"Who is this for?\",\"why\":\"The reader decides the tone, the depth and the language. Without one, the work is written for nobody in particular.\",\"state\":\"known\",\"value\":\"Research my target customer\",\"source\":\"your goal\"},{\"key\":\"deliverable\",\"question\":\"What should come out of this — what is the thing you want in your hands?\",\"why\":\"The shape of the artifact decides the steps and who is staffed to do them. A report and a video are not the same run.\",\"state\":\"known\",\"value\":\"Research my target customer\",\"source\":\"your goal\"},{\"key\":\"success\",\"question\":\"How will you know this worked?\",\"why\":\"Without a test to hold the result against, the run can tell you it finished — it cannot tell you it succeeded.\",\"state\":\"known\",\"value\":\"Research my target customer\",\"source\":\"your goal\"},{\"key\":\"deadline\",\"question\":\"By when does this need to be done?\",\"why\":\"A deadline decides how much the run should attempt. With none, it will size the work by guesswork.\",\"state\":\"missing\",\"value\":null,\"source\":null},{\"key\":\"sources\",\"question\":\"What should this be based on — whose material, which numbers, which files?\",\"why\":\"The run quotes your own material as evidence. With none, it works from general knowledge alone and cannot cite you.\",\"state\":\"known\",\"value\":\"Remembered project facts; Project conversations\",\"source\":\"your workspace\"},{\"key\":\"language\",\"question\":\"Which language should the output be written in?\",\"why\":\"Everything the run writes lands in one language. Choosing it late means rewriting.\",\"state\":\"inferred\",\"value\":\"English\",\"source\":\"inferred — this project's language is English\"}],\"counts\":{\"known\":4,\"inferred\":1,\"missing\":1,\"dismissed\":0}}"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "messages": [
+    {
+      "id": 35702,
+      "role": "user",
+      "content": "What is the capital of Bangladesh?",
+      "meta": null,
+      "created_at": "2026-09-15T04:50:34.185160+00:00"
+    },
+    {
+      "id": 35703,
+      "role": "assistant",
+      "content": "The capital of Bangladesh is **Dhaka**.",
+      "meta": {
+        "model": "Medha (legacy)",
+        "usage": {
+          "model": "Medha (legacy)",
+          "cost_bdt": 0.1334,
+          "charged_bdt": 0.1334,
+          "prompt_tokens": 17343,
+          "context_window": 1000000,
+          "completion_tokens": 52
+        },
+        "agent_id": null,
+        "truncated": false,
+        "profile_id": null,
+        "tools_used": [],
+        "skill_names": [],
+        "finish_reason": "stop",
+        "pending_confirm": null
+      },
+      "created_at": "2026-09-15T04:50:37.630206+00:00"
+    }
+  ],
+  "has_more": false
+}

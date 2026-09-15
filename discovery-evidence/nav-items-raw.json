@@ -1,0 +1,322 @@
+[
+  {
+    "tag": "BUTTON",
+    "text": "‹",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "New chat",
+    "href": "/chat"
+  },
+  {
+    "tag": "A",
+    "text": "New ঝাঁক",
+    "href": "/?focus=jhak"
+  },
+  {
+    "tag": "A",
+    "text": "Home",
+    "href": "/"
+  },
+  {
+    "tag": "A",
+    "text": "Getting started",
+    "href": "/learn"
+  },
+  {
+    "tag": "A",
+    "text": "Chat",
+    "href": "/chat"
+  },
+  {
+    "tag": "A",
+    "text": "Agents",
+    "href": "/agents"
+  },
+  {
+    "tag": "A",
+    "text": "Skills",
+    "href": "/skills"
+  },
+  {
+    "tag": "A",
+    "text": "Content Journey",
+    "href": "/content-media"
+  },
+  {
+    "tag": "A",
+    "text": "Elements",
+    "href": "/elements"
+  },
+  {
+    "tag": "A",
+    "text": "Projects",
+    "href": "/projects"
+  },
+  {
+    "tag": "A",
+    "text": "Profiles",
+    "href": "/profiles"
+  },
+  {
+    "tag": "A",
+    "text": "Jobs",
+    "href": "/jobs"
+  },
+  {
+    "tag": "A",
+    "text": "Tools",
+    "href": "/tools"
+  },
+  {
+    "tag": "A",
+    "text": "Model Guide",
+    "href": "/models"
+  },
+  {
+    "tag": "A",
+    "text": "Chats",
+    "href": "/chats"
+  },
+  {
+    "tag": "A",
+    "text": "Usage",
+    "href": "/usage"
+  },
+  {
+    "tag": "A",
+    "text": "Ads Dashboard",
+    "href": "/ads"
+  },
+  {
+    "tag": "A",
+    "text": "Command Center",
+    "href": "/command-center"
+  },
+  {
+    "tag": "A",
+    "text": "Life OS",
+    "href": "/life"
+  },
+  {
+    "tag": "A",
+    "text": "Connections",
+    "href": "/connections"
+  },
+  {
+    "tag": "A",
+    "text": "Scheduled posts",
+    "href": "/schedule"
+  },
+  {
+    "tag": "A",
+    "text": "Custom MCP",
+    "href": "/custom-mcp"
+  },
+  {
+    "tag": "A",
+    "text": "Help & support",
+    "href": "/support"
+  },
+  {
+    "tag": "A",
+    "text": "Settings",
+    "href": "/settings"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Dark mode",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Sign out",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "View usage",
+    "href": "/usage"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Start",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "প্রোডাক্ট চালু করব?· Product go/no-go",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "ক্যাম্পেইন প্ল্যান· Campaign plan",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "ROAS পড়ল কেন?· ROAS post-mortem",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "নতুন অ্যাড অ্যাঙ্গেল· Creative angles",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "কনটেন্ট ক্যালেন্ডার· Content calendar",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "রিটার্ন কমাতে হবে· RTO reduction",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "লাভ হচ্ছে কি?· Unit economics",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "সাপোর্ট টেমপ্লেট· Support templates",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "ঝাঁক কী? · What is this?",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Continue",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Chats3",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Agents2",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Skills3",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Projects1",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Profiles1",
+    "href": null
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Jobs today0",
+    "href": null
+  },
+  {
+    "tag": "A",
+    "text": "Manage billing",
+    "href": "/account"
+  },
+  {
+    "tag": "A",
+    "text": "Start a chatTalk to a model",
+    "href": "/chat"
+  },
+  {
+    "tag": "A",
+    "text": "Build an agentCompose a worker",
+    "href": "/agents"
+  },
+  {
+    "tag": "A",
+    "text": "New projectGroup your work",
+    "href": "/projects"
+  },
+  {
+    "tag": "A",
+    "text": "Run a studioGuided journeys",
+    "href": "/studios"
+  },
+  {
+    "tag": "A",
+    "text": "Set up a jobWork on a timetable",
+    "href": "/jobs#templates"
+  },
+  {
+    "tag": "A",
+    "text": "View all",
+    "href": "/chats"
+  },
+  {
+    "tag": "A",
+    "text": "New chat",
+    "href": "/chat?id=3623"
+  },
+  {
+    "tag": "A",
+    "text": "hi",
+    "href": "/chat?id=3621"
+  },
+  {
+    "tag": "A",
+    "text": "Set up — Home",
+    "href": "/chat?id=3620"
+  },
+  {
+    "tag": "A",
+    "text": "Manage",
+    "href": "/agents"
+  },
+  {
+    "tag": "A",
+    "text": "🔗 Account Connector",
+    "href": "/chat?agent=111"
+  },
+  {
+    "tag": "A",
+    "text": "💡 Action Planner",
+    "href": "/chat?agent=77"
+  },
+  {
+    "tag": "A",
+    "text": "Action Prioritizer",
+    "href": "/chat?agent=147"
+  },
+  {
+    "tag": "A",
+    "text": "Ad Classifier",
+    "href": "/chat?agent=144"
+  },
+  {
+    "tag": "A",
+    "text": "Ad Copywriter",
+    "href": "/chat?agent=33"
+  },
+  {
+    "tag": "A",
+    "text": "🎨 Ad Creative Critic",
+    "href": "/chat?agent=114"
+  },
+  {
+    "tag": "A",
+    "text": "Agent Creator",
+    "href": "/chat?agent=2"
+  },
+  {
+    "tag": "A",
+    "text": "Arnob",
+    "href": "/chat?agent=31"
+  }
+]
